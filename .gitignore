@@ -1,0 +1,15 @@
+/.env
+/.vscode
+/PokemonRed.gb
+/VisualizeProgress.ipynb
+/assets
+/baselines
+/clip_experiment
+/fast_text_start.state
+/has_pokedex.state
+/has_pokedex_nballs.state
+/init.state
+/requirements.txt
+/v2
+/venv
+/visualization
