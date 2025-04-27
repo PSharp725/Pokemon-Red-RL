@@ -81,7 +81,7 @@ class RedGymEnv(Env):
         ]
 
         # load event names (parsed from https://github.com/pret/pokered/blob/91dc3c9f9c8fd529bb6e8307b58b96efa0bec67e/constants/event_constants.asm)
-        with open("./src/game/events.json") as f:
+        with open("./src/events.json") as f:
             event_names = json.load(f)
         self.event_names = event_names
 

@@ -1,15 +1,13 @@
 import sys
 from os.path import exists
 from pathlib import Path
-from stable_baselines3 import PPO, A2C
+from red_gym_env import RedGymEnv
+from stream_agent_wrapper import StreamWrapper
+from stable_baselines3 import PPO
 from stable_baselines3.common import env_checker
 from stable_baselines3.common.vec_env import SubprocVecEnv
 from stable_baselines3.common.utils import set_random_seed
 from stable_baselines3.common.callbacks import CheckpointCallback, CallbackList
-
-
-from red_gym_env import RedGymEnv
-from stream_agent_wrapper import StreamWrapper
 from tensorboard_callback import TensorboardCallback
 
 def make_env(rank, env_conf, seed=0):
@@ -21,15 +19,7 @@ def make_env(rank, env_conf, seed=0):
     :param rank: (int) index of the subprocess
     """
     def _init():
-        env = StreamWrapper(
-            RedGymEnv(env_conf), 
-            stream_metadata = { # All of this is part is optional
-                "user": "pash8324", # choose your own username
-                "env_id": rank, # environment identifier
-                "color": "#14e081", # choose your color :) #447799
-                "extra": "", # any extra text you put here will be displayed
-            }
-        )
+        env = RedGymEnv(env_conf)
         env.reset(seed=(seed + rank))
         return env
     set_random_seed(seed)
@@ -45,13 +35,13 @@ if __name__ == "__main__":
     env_config = {
                 'headless': True, 'save_final_state': True, 'early_stop': False,
                 'action_freq': 24, 'init_state': './init.state', 'max_steps': ep_length, 
-                'print_rewards': True, 'save_video': True, 'fast_video': True, 'session_path': sess_path,
+                'print_rewards': True, 'save_video': False, 'fast_video': True, 'session_path': sess_path,
                 'gb_path': './PokemonRed.gb', 'debug': False, 'reward_scale': 0.5, 'explore_weight': 0.25
             }
-    
+
     print(env_config)
-    
-    num_cpu = 64 # Also sets the number of episodes per training iteration
+
+    num_cpu = 32 # Also sets the number of episodes per training iteration
     env = SubprocVecEnv([make_env(i, env_config) for i in range(num_cpu)])
     
     checkpoint_callback = CheckpointCallback(save_freq=ep_length//2, save_path=sess_path,
