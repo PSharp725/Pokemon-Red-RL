@@ -16,7 +16,7 @@ def main():
         'early_stop': False,
         'action_freq': 24,
         'init_state': './init.state',
-        'max_steps': 2048 * 80,
+        'max_steps': 2048 * 2,
         'save_video': True,
         'fast_video': True,
         'session_path': sess_path,

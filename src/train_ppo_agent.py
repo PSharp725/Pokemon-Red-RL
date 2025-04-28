@@ -7,6 +7,9 @@ from stable_baselines3.common.vec_env import SubprocVecEnv
 from stable_baselines3.common.utils import set_random_seed
 
 from red_gym_env import RedGymEnv
+from run_config import(
+    EP_LENGTH, NUM_CPU, REWARD_SCALE, EXPLORE_WEIGHT,
+)
 from stream_agent_wrapper import StreamWrapper
 from tensorboard_callback import TensorboardCallback
 
@@ -20,7 +23,7 @@ def make_env(rank, env_conf, seed=0):
 
 def train_ppo_agent():
     use_wandb_logging = False
-    ep_length = 2048 * 80
+    ep_length = EP_LENGTH
     sess_id = "ppo_runs"
     sess_path = Path(sess_id)
     sess_path.mkdir(exist_ok=True)
@@ -38,13 +41,13 @@ def train_ppo_agent():
         'session_path': sess_path,
         'gb_path': './PokemonRed.gb',
         'debug': False,
-        'reward_scale': 0.5,
-        'explore_weight': 0.25,
+        'reward_scale': REWARD_SCALE,
+        'explore_weight': EXPLORE_WEIGHT,
     }
 
     print(env_config)
 
-    num_cpu = 32
+    num_cpu = NUM_CPU
     env = SubprocVecEnv([make_env(i, env_config) for i in range(num_cpu)])
 
     checkpoint_callback = CheckpointCallback(

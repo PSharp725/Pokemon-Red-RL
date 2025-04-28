@@ -15,6 +15,9 @@ from gymnasium import Env, spaces
 from pyboy.utils import WindowEvent
 
 from global_map import local_to_global, GLOBAL_MAP_SHAPE
+from env_config import (
+    STATE_REWARDS, STATE_REWARD_WEIGHTS,
+)
 
 event_flags_start = 0xD747
 event_flags_end = 0xD755-7 # 0xD87E for SS Anne # old - 0xD7F6, "0xD755-7" : "Beat Brock"
@@ -515,15 +518,21 @@ class RedGymEnv(Env):
     def get_game_state_reward(self, print_stats=False):
         # addresses from https://datacrystal.romhacking.net/wiki/Pok%C3%A9mon_Red/Blue:RAM_map
         # https://github.com/pret/pokered/blob/91dc3c9f9c8fd529bb6e8307b58b96efa0bec67e/constants/event_constants.asm
+        reward_functions = {
+            "event": lambda: self.update_max_event_rew(),
+            "level": lambda: self.get_levels_reward(),
+            "heal": lambda: self.total_healing_rew,
+            "op_lvl": lambda: self.update_max_op_level(),
+            "dead": lambda: self.died_count,
+            "badge": lambda: self.get_badges(),
+            "explore": lambda:  self.explore_weight * len(self.seen_coords),
+            "stuck": lambda: self.get_current_coord_count_reward(),
+        }
+
         state_scores = {
-            "event": self.reward_scale * self.update_max_event_rew() * 4,
-            #"level": self.reward_scale * self.get_levels_reward(),
-            "heal": self.reward_scale * self.total_healing_rew * 10,
-            #"op_lvl": self.reward_scale * self.update_max_op_level() * 0.2,
-            #"dead": self.reward_scale * self.died_count * -0.1,
-            "badge": self.reward_scale * self.get_badges() * 10,
-            "explore": self.reward_scale * self.explore_weight * len(self.seen_coords) * 0.1,
-            "stuck": self.reward_scale * self.get_current_coord_count_reward() * -0.05
+            key: self.reward_scale * func() * STATE_REWARD_WEIGHTS.get(key, 1)
+            for key, func in reward_functions.items()
+            if STATE_REWARDS.get(key, False)
         }
 
         return state_scores

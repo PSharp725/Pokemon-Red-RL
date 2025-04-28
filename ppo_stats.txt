@@ -1,0 +1,97 @@
+------------------------------------------------------------------
+| env_stats/              |                                      |
+|    badge                | 0                                    |
+|    coord_count          | 1.87e+03                             |
+|    deaths               | 6                                    |
+|    event                | 15.2                                 |
+|    healr                | 1.2                                  |
+|    hp                   | 0.837                                |
+|    levels_sum           | 8.88                                 |
+|    map                  | 14.6                                 |
+|    max_map_progress     | 3.44                                 |
+|    pcount               | 1.09                                 |
+|    step                 | 1.64e+05                             |
+|    x                    | 15.2                                 |
+|    y                    | 10.6                                 |
+| env_stats_max/          |                                      |
+|    badge                | 0                                    |
+|    coord_count          | 2507                                 |
+|    deaths               | 10                                   |
+|    event                | 20                                   |
+|    healr                | 4.12                                 |
+|    hp                   | 1                                    |
+|    levels_sum           | 17                                   |
+|    map                  | 51                                   |
+|    max_map_progress     | 5                                    |
+|    pcount               | 2                                    |
+|    step                 | 163838                               |
+|    x                    | 35                                   |
+|    y                    | 60                                   |
+| time/                   |                                      |
+|    fps                  | 2775                                 |
+|    iterations           | 1664                                 |
+|    time_elapsed         | 49120                                |
+|    total_timesteps      | 136314880                            |
+| train/                  |                                      |
+|    approx_kl            | 0.007051432                          |
+|    clip_fraction        | 0.0821                               |
+|    clip_range           | 0.2                                  |
+|    entropy_loss         | -1.68                                |
+|    explained_variance   | 0.9030554                            |
+|    learning_rate        | 0.0003                               |
+|    loss                 | -0.0221                              |
+|    n_updates            | 1663                                 |
+|    policy_gradient_loss | -0.000743                            |
+|    value_loss           | 0.000158                             |
+| trajectory/             |                                      |
+|    all_flags            | {"0xD74B-0": "Followed Oak Into L... |
+------------------------------------------------------------------
+
+------------------------------------------------------------------
+| env_stats/              |                                      |
+|    badge                | 0.0312                               |
+|    coord_count          | 2.42e+03                             |
+|    deaths               | 7.44                                 |
+|    event                | 16.2                                 |
+|    healr                | 1.42                                 |
+|    hp                   | 0.775                                |
+|    levels_sum           | 12.6                                 |
+|    map                  | 21.2                                 |
+|    max_map_progress     | 4.31                                 |
+|    pcount               | 1.12                                 |
+|    step                 | 1.64e+05                             |
+|    x                    | 17.2                                 |
+|    y                    | 11                                   |
+| env_stats_max/          |                                      |
+|    badge                | 1                                    |
+|    coord_count          | 3707                                 |
+|    deaths               | 13                                   |
+|    event                | 20                                   |
+|    healr                | 2.72                                 |
+|    hp                   | 1                                    |
+|    levels_sum           | 21                                   |
+|    map                  | 56                                   |
+|    max_map_progress     | 7                                    |
+|    pcount               | 2                                    |
+|    step                 | 163838                               |
+|    x                    | 35                                   |
+|    y                    | 40                                   |
+| time/                   |                                      |
+|    fps                  | 2632                                 |
+|    iterations           | 1856                                 |
+|    time_elapsed         | 57760                                |
+|    total_timesteps      | 152043520                            |
+| train/                  |                                      |
+|    approx_kl            | 0.004912301                          |
+|    clip_fraction        | 0.0483                               |
+|    clip_range           | 0.2                                  |
+|    entropy_loss         | -1.55                                |
+|    explained_variance   | 0.48614186                           |
+|    learning_rate        | 0.0003                               |
+|    loss                 | -0.0188                              |
+|    n_updates            | 1855                                 |
+|    policy_gradient_loss | 0.000819                             |
+|    value_loss           | 0.0033                               |
+| trajectory/             |                                      |
+|    all_flags            | {"0xD74B-0": "Followed Oak Into L... |
+------------------------------------------------------------------

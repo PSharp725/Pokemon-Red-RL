@@ -6,17 +6,17 @@ from stable_baselines3 import PPO
 from red_gym_env import RedGymEnv
 
 def main():
-    sess_path = Path("runs")
-    model_path = sess_path / "final_model.zip"
+    sess_path = Path("ppo_runs")
+    model_path = sess_path / "poke_167772160_steps.zip"
     assert model_path.exists(), "❌ No final model found. Train it first."
 
     env_config = {
         'headless': True,
-        'save_final_state': True,  # Important: save map/screenshots
+        'save_final_state': True,
         'early_stop': False,
         'action_freq': 24,
         'init_state': './init.state',
-        'max_steps': 2048 * 5,  # 5 rollouts for demo
+        'max_steps': 2048 * 10,
         'print_rewards': True,
         'save_video': True,
         'fast_video': True,
@@ -32,12 +32,12 @@ def main():
 
     env = RedGymEnv(env_config)
 
-    model = PPO.load(model_path, env=env)
+    model = PPO.load(model_path, env=env, custom_objects={'lr_schedule': 0, 'clip_range': 0})
     obs, _ = env.reset()
     done = False
 
     while not done:
-        action, _states = model.predict(obs, deterministic=True)
+        action, _states = model.predict(obs, deterministic=False)
         obs, reward, _, done, _ = env.step(action)
         env.save_and_print_info(done, obs)
 
