@@ -98,14 +98,14 @@ class RedGymEnv(Env):
 
         self.observation_space = spaces.Dict(
             {
-                "screens": spaces.Box(low=0, high=255, shape=self.output_shape, dtype=np.uint8),
-                "health": spaces.Box(low=0, high=1),
+                "screens": spaces.Box(low=0, high=255, shape=self.output_shape, dtype=np.uint8),        
+                "health": spaces.Box(low=0, high=1),    # 0-1
                 "level": spaces.Box(low=-1, high=1, shape=(self.enc_freqs,)),
-                "badges": spaces.MultiBinary(8),
+                "badges": spaces.MultiBinary(8), # 8 badges
                 "events": spaces.MultiBinary((event_flags_end - event_flags_start) * 8),
                 "map": spaces.Box(low=0, high=255, shape=(
                     self.coords_pad*4,self.coords_pad*4, 1), dtype=np.uint8),
-                "recent_actions": spaces.MultiDiscrete([len(self.valid_actions)] * self.frame_stacks)
+                "recent_actions": spaces.MultiDiscrete([len(self.valid_actions)] * self.frame_stacks)       
             }
         )
 

@@ -2,6 +2,7 @@
 /.env
 /.vscode
 /.venv
+venv/
 
 #pycache
 __pycache__/
@@ -16,3 +17,6 @@ runs/
 /VisualizeProgress.ipynb
 /clip_experiment
 /visualizations
+rollouts/
+final_states/
+*_runs/

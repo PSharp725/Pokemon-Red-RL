@@ -6,9 +6,9 @@ from stable_baselines3 import PPO
 from red_gym_env import RedGymEnv
 
 def main():
-    sess_path = Path("ppo_runs")
-    model_path = sess_path / "poke_167772160_steps.zip"
-    assert model_path.exists(), "❌ No final model found. Train it first."
+    sess_path = Path("ppo_runs")  #  Directory to save files
+    model_path = sess_path / "poke_167772160_steps.zip"     # Path to the model file
+    assert model_path.exists(), "No final model found. Train it first."              
 
     env_config = {
         'headless': True,
