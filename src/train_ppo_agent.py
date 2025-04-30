@@ -59,17 +59,18 @@ def train_ppo_agent():
 
     train_steps_batch = ep_length // 64
 
-    model = PPO(
-        "MultiInputPolicy",
-        env,
-        verbose=1,
-        n_steps=train_steps_batch,
-        batch_size=512,
-        n_epochs=1,
-        gamma=0.997,
-        ent_coef=0.01,
-        tensorboard_log=sess_path
-    )
+    # model = PPO(
+    #     "MultiInputPolicy",
+    #     env,
+    #     verbose=1,
+    #     n_steps=train_steps_batch,
+    #     batch_size=512,
+    #     n_epochs=1,
+    #     gamma=0.997,
+    #     ent_coef=0.01,
+    #     tensorboard_log=sess_path
+    # )
+    model = PPO.load(path = './src/assets/models/PokemonRed_PPO_Final_project_agent.zip',env = env)
 
     print(model.policy)
 

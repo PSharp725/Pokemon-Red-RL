@@ -7,7 +7,7 @@ from red_gym_env import RedGymEnv
 
 def main():
     sess_path = Path("ppo_runs")  #  Directory to save files
-    model_path = sess_path / "poke_167772160_steps.zip"     # Path to the model file
+    model_path = sess_path / "poke_217579520_steps.zip"     # Path to the model file
     assert model_path.exists(), "No final model found. Train it first."              
 
     env_config = {
