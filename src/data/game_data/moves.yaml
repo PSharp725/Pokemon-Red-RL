@@ -1,0 +1,1135 @@
+MOVES:
+  '1':
+    Move: Pound
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 35
+    Power: 40
+    Acc: 100
+  '2':
+    Move: Karate Chop
+    Type: Fighting
+    Phy/Spec: Physical
+    PP: 25
+    Power: 50
+    Acc: 100
+  '3':
+    Move: Double Slap
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 10
+    Power: 15
+    Acc: 85
+  '4':
+    Move: Comet Punch
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 15
+    Power: 18
+    Acc: 85
+  '5':
+    Move: Mega Punch
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 20
+    Power: 80
+    Acc: 85
+  '6':
+    Move: Pay Day
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 20
+    Power: 40
+    Acc: 100
+  '7':
+    Move: Fire Punch
+    Type: Fire
+    Phy/Spec: Physical
+    PP: 15
+    Power: 75
+    Acc: 100
+  '8':
+    Move: Ice Punch
+    Type: Ice
+    Phy/Spec: Physical
+    PP: 15
+    Power: 75
+    Acc: 100
+  '9':
+    Move: Thunder Punch
+    Type: Electric
+    Phy/Spec: Physical
+    PP: 15
+    Power: 75
+    Acc: 100
+  '10':
+    Move: Scratch
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 35
+    Power: 40
+    Acc: 100
+  '11':
+    Move: Vise Grip
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 30
+    Power: 55
+    Acc: 100
+  '12':
+    Move: Guillotine
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 5
+    Power: —
+    Acc: 30
+  '13':
+    Move: Razor Wind
+    Type: Normal
+    Phy/Spec: Special
+    PP: 10
+    Power: 80
+    Acc: 100
+  '14':
+    Move: Swords Dance
+    Type: Normal
+    Phy/Spec: Status
+    PP: 20
+    Power: —
+    Acc: —
+  '15':
+    Move: Cut
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 30
+    Power: 50
+    Acc: 95
+  '16':
+    Move: Gust
+    Type: Flying
+    Phy/Spec: Special
+    PP: 35
+    Power: 40
+    Acc: 100
+  '17':
+    Move: Wing Attack
+    Type: Flying
+    Phy/Spec: Physical
+    PP: 35
+    Power: 60
+    Acc: 100
+  '18':
+    Move: Whirlwind
+    Type: Normal
+    Phy/Spec: Status
+    PP: 20
+    Power: —
+    Acc: —
+  '19':
+    Move: Fly
+    Type: Flying
+    Phy/Spec: Physical
+    PP: 15
+    Power: 90
+    Acc: 95
+  '20':
+    Move: Bind
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 20
+    Power: 15
+    Acc: 85
+  '21':
+    Move: Slam
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 20
+    Power: 80
+    Acc: 75
+  '22':
+    Move: Vine Whip
+    Type: Grass
+    Phy/Spec: Physical
+    PP: 25
+    Power: 45
+    Acc: 100
+  '23':
+    Move: Stomp
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 20
+    Power: 65
+    Acc: 100
+  '24':
+    Move: Double Kick
+    Type: Fighting
+    Phy/Spec: Physical
+    PP: 30
+    Power: 30
+    Acc: 100
+  '25':
+    Move: Mega Kick
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 5
+    Power: 120
+    Acc: 75
+  '26':
+    Move: Jump Kick
+    Type: Fighting
+    Phy/Spec: Physical
+    PP: 10
+    Power: 100
+    Acc: 95
+  '27':
+    Move: Rolling Kick
+    Type: Fighting
+    Phy/Spec: Physical
+    PP: 15
+    Power: 60
+    Acc: 85
+  '28':
+    Move: Sand Attack
+    Type: Ground
+    Phy/Spec: Status
+    PP: 15
+    Power: —
+    Acc: 100
+  '29':
+    Move: Headbutt
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 15
+    Power: 70
+    Acc: 100
+  '30':
+    Move: Horn Attack
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 25
+    Power: 65
+    Acc: 100
+  '31':
+    Move: Fury Attack
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 20
+    Power: 15
+    Acc: 85
+  '32':
+    Move: Horn Drill
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 5
+    Power: —
+    Acc: 30
+  '33':
+    Move: Tackle
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 35
+    Power: 40
+    Acc: 100
+  '34':
+    Move: Body Slam
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 15
+    Power: 85
+    Acc: 100
+  '35':
+    Move: Wrap
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 20
+    Power: 15
+    Acc: 90
+  '36':
+    Move: Take Down
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 20
+    Power: 90
+    Acc: 85
+  '37':
+    Move: Thrash
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 10
+    Power: 120
+    Acc: 100
+  '38':
+    Move: Double-Edge
+    Type: Normal
+    Phy/Spec: Physical
+    PP: 15
+    Power: 120
+    Acc: 100
+  '39':
+    Move: Tail Whip
+    Type: Normal
+    Phy/Spec: Status
+    PP: 30
+    Power: —
+    Acc: 100
+  '40':
+    Move: Poison Sting
+    Type: Poison
+    Phy/Spec: Physical
+    PP: 35
+    Power: 15
+    Acc: 100
+  '41':
+    Move: Twineedle
+    Type: Bug
+    Phy/Spec: Physical
+    PP: 20
+    Power: 25
+    Acc: 100
+  '42':
+    Move: Pin Missile
+    Type: Bug
+    Phy/Spec: Physical
+    PP: 20
+    Power: 25
+    Acc: 95
+  '43':
+    Move: Leer
+    Type: Normal
+    Phy/Spec: Status
+    PP: 30
+    Power: —
+    Acc: 100
+  '44':
+    Move: Bite
+    Type: Dark
+    Phy/Spec: Physical
+    PP: 25
+    Power: 60
+    Acc: 100
+  '45':
+    Move: Growl
+    Type: Normal
+    Phy/Spec: Status
+    PP: 40
+    Power: —
+    Acc: 100
+  '46':
+    Move: Roar
+    Type: Normal
+    Phy/Spec: Status
+    PP: 20
+    Power: —
+    Acc: —
+  '47':
+    Move: Sing
+    Type: Normal
+    Phy/Spec: Status
+    PP: 15
+    Power: —
+    Acc: 55
+  '48':
+    Move: Supersonic
+    Type: Normal
+    Phy/Spec: Status
+    PP: 20
+    Power: —
+    Acc: 55
+  '49':
+    Move: Sonic Boom
+    Type: Normal
+    Phy/Spec: Special
+    PP: 20
+    Power: —
+    Acc: 90
+  '50':
+    Move: Disable
+    Type: Normal
+    Phy/Spec: Status
+    PP: 20
+    Power: —
+    Acc: 100
+  '51':
+    Move: Acid
+    Type: Poison
+    Phy/Spec: Special
+    PP: 30
+    Power: 40
+    Acc: 100
+  '52':
+    Move: Ember
+    Type: Fire
+    Phy/Spec: Special
+    PP: 25
+    Power: 40
+    Acc: 100
+  '53':
+    Move: Flamethrower
+    Type: Fire
+    Phy/Spec: Special
+    PP: 15
+    Power: 90
+    Acc: 100
+  '54':
+    Move: Mist
+    Type: Ice
+    Phy/Spec: Status
+    PP: 30
+    Power: —
+    Acc: —
+  '55':
+    Move: Water Gun
+    Type: Water
+    Phy/Spec: Special
+    PP: 25
+    Power: 40
+    Acc: 100
+  '56':
+    Move: Hydro Pump
+    Type: Water
+    Phy/Spec: Special
+    PP: 5
+    Power: 110
+    Acc: 80
+  '57':
+    Move: Surf
+    Type: Water
+    Phy/Spec: Special
+    PP: 15
+    Power: 90
+    Acc: 100
+  '58':
+    Move: Ice Beam
+    Type: Ice
+    Phy/Spec: Special
+    PP: 10
+    Power: 90
+    Acc: 100
+  '59':
+    Move: Blizzard
+    Type: Ice
+    Phy/Spec: Special
+    PP: 5
+    Power: 110
+    Acc: 70
+  '60':
+    Move: Psybeam
+    Type: Psychic
+    Phy/Spec: Special
+    PP: 20
+    Power: 65
+    Acc: 100
+  '61':
+    Move: Bubble Beam
+    Type: Water
+    Phy/Spec: Special
+    PP: 20
+    Power: 65
+    Acc: 100
+  '62':
+    Move: Aurora Beam
+    Type: Ice
+    Phy/Spec: Special
+    PP: 20
+    Power: 65
+    Acc: 100
+  '63':
+    Move: Hyper Beam
+    Type: Normal
+    Phy/Spec: Special
+    PP: 5
+    Power: 150
+    Acc: 90
+  '64':
+    Move: Peck
+    Type: Flying
+    Phy/Spec: Physical
+    PP: 35
+    Power: 35
+    Acc: 100
+  '65':
+    Move: Drill Peck
+    Type: Flying
+    Phy/Spec: Physical
+    PP: 20
+    Power: 80
+    Acc: 100
+  '66':
+    Move: Submission
+    Type: Fighting
+    Phy/Spec: Physical
+    PP: 20
+    Power: 80
+    Acc: 80
+  '67':
+    Move: Low Kick
+    Type: Fighting
+    Phy/Spec: Physical
+    PP: 20
+    Power: —
+    Acc: 100
+  '68':
+    Move: Counter
+    Type: Fighting
+    Category: Physical
+    PP: 20
+    Power: —
+    Accuracy: 100
+  '69':
+    Move: Seismic Toss
+    Type: Fighting
+    Category: Physical
+    PP: 20
+    Power: —
+    Accuracy: 100
+  '70':
+    Move: Strength
+    Type: Normal
+    Category: Physical
+    PP: 15
+    Power: 80
+    Accuracy: 100
+  '71':
+    Move: Absorb
+    Type: Grass
+    Category: Special
+    PP: 25
+    Power: 20
+    Accuracy: 100
+  '72':
+    Move: Mega Drain
+    Type: Grass
+    Category: Special
+    PP: 15
+    Power: 40
+    Accuracy: 100
+  '73':
+    Move: Leech Seed
+    Type: Grass
+    Category: Status
+    PP: 10
+    Power: —
+    Accuracy: 90
+  '74':
+    Move: Growth
+    Type: Normal
+    Category: Status
+    PP: 20
+    Power: —
+    Accuracy: —
+  '75':
+    Move: Razor Leaf
+    Type: Grass
+    Category: Physical
+    PP: 25
+    Power: 55
+    Accuracy: 95
+  '76':
+    Move: Solar Beam
+    Type: Grass
+    Category: Special
+    PP: 10
+    Power: 120
+    Accuracy: 100
+  '77':
+    Move: Poison Powder
+    Type: Poison
+    Category: Status
+    PP: 35
+    Power: —
+    Accuracy: 75
+  '78':
+    Move: Stun Spore
+    Type: Grass
+    Category: Status
+    PP: 30
+    Power: —
+    Accuracy: 75
+  '79':
+    Move: Sleep Powder
+    Type: Grass
+    Category: Status
+    PP: 15
+    Power: —
+    Accuracy: 75
+  '80':
+    Move: Petal Dance
+    Type: Grass
+    Category: Special
+    PP: 10
+    Power: 120
+    Accuracy: 100
+  '81':
+    Move: String Shot
+    Type: Bug
+    Category: Status
+    PP: 40
+    Power: —
+    Accuracy: 95
+  '82':
+    Move: Dragon Rage
+    Type: Dragon
+    Category: Special
+    PP: 10
+    Power: —
+    Accuracy: 100
+  '83':
+    Move: Fire Spin
+    Type: Fire
+    Category: Special
+    PP: 15
+    Power: 35
+    Accuracy: 85
+  '84':
+    Move: Thunder Shock
+    Type: Electric
+    Category: Special
+    PP: 30
+    Power: 40
+    Accuracy: 100
+  '85':
+    Move: Thunderbolt
+    Type: Electric
+    Category: Special
+    PP: 15
+    Power: 90
+    Accuracy: 100
+  '86':
+    Move: Thunder Wave
+    Type: Electric
+    Category: Status
+    PP: 20
+    Power: —
+    Accuracy: 90
+  '87':
+    Move: Thunder
+    Type: Electric
+    Category: Special
+    PP: 10
+    Power: 110
+    Accuracy: 70
+  '88':
+    Move: Rock Throw
+    Type: Rock
+    Category: Physical
+    PP: 15
+    Power: 50
+    Accuracy: 90
+  '89':
+    Move: Earthquake
+    Type: Ground
+    Category: Physical
+    PP: 10
+    Power: 100
+    Accuracy: 100
+  '90':
+    Move: Fissure
+    Type: Ground
+    Category: Physical
+    PP: 5
+    Power: —
+    Accuracy: 30
+  '91':
+    Move: Dig
+    Type: Ground
+    Category: Physical
+    PP: 10
+    Power: 80
+    Accuracy: 100
+  '92':
+    Move: Toxic
+    Type: Poison
+    Category: Status
+    PP: 10
+    Power: —
+    Accuracy: 90
+  '93':
+    Move: Confusion
+    Type: Psychic
+    Category: Special
+    PP: 25
+    Power: 50
+    Accuracy: 100
+  '94':
+    Move: Psychic
+    Type: Psychic
+    Category: Special
+    PP: 10
+    Power: 90
+    Accuracy: 100
+  '95':
+    Move: Hypnosis
+    Type: Psychic
+    Category: Status
+    PP: 20
+    Power: —
+    Accuracy: 60
+  '96':
+    Move: Meditate
+    Type: Psychic
+    Category: Status
+    PP: 40
+    Power: —
+    Accuracy: —
+  '97':
+    Move: Agility
+    Type: Psychic
+    Category: Status
+    PP: 30
+    Power: —
+    Accuracy: —
+  '98':
+    Move: Quick Attack
+    Type: Normal
+    Category: Physical
+    PP: 30
+    Power: 40
+    Accuracy: 100
+  '99':
+    Move: Rage
+    Type: Normal
+    Category: Physical
+    PP: 20
+    Power: 20
+    Accuracy: 100
+  '100':
+    Move: Teleport
+    Type: Psychic
+    Category: Status
+    PP: 20
+    Power: —
+    Accuracy: —
+  '101':
+    Move: Night Shade
+    Type: Ghost
+    Category: Special
+    PP: 15
+    Power: —
+    Accuracy: 100
+  '102':
+    Move: Mimic
+    Type: Normal
+    Category: Status
+    PP: 10
+    Power: —
+    Accuracy: —
+  '103':
+    Move: Screech
+    Type: Normal
+    Category: Status
+    PP: 40
+    Power: —
+    Accuracy: 85
+  '104':
+    Move: Double Team
+    Type: Normal
+    Category: Status
+    PP: 15
+    Power: —
+    Accuracy: —
+  '105':
+    Move: Recover
+    Type: Normal
+    Category: Status
+    PP: 5
+    Power: —
+    Accuracy: —
+  '106':
+    Move: Harden
+    Type: Normal
+    Category: Status
+    PP: 30
+    Power: —
+    Accuracy: —
+  '107':
+    Move: Minimize
+    Type: Normal
+    Category: Status
+    PP: 10
+    Power: —
+    Accuracy: —
+  '108':
+    Move: Smokescreen
+    Type: Normal
+    Category: Status
+    PP: 20
+    Power: —
+    Accuracy: 100
+  '109':
+    Move: Confuse Ray
+    Type: Ghost
+    Category: Status
+    PP: 10
+    Power: —
+    Accuracy: 100
+  '110':
+    Move: Withdraw
+    Type: Water
+    Category: Status
+    PP: 40
+    Power: —
+    Accuracy: —
+  '111':
+    Move: Defense Curl
+    Type: Normal
+    Category: Status
+    PP: 40
+    Power: —
+    Accuracy: —
+  '112':
+    Move: Barrier
+    Type: Psychic
+    Category: Status
+    PP: 20
+    Power: —
+    Accuracy: —
+  '113':
+    Move: Light Screen
+    Type: Psychic
+    Category: Status
+    PP: 30
+    Power: —
+    Accuracy: —
+  '114':
+    Move: Haze
+    Type: Ice
+    Category: Status
+    PP: 30
+    Power: —
+    Accuracy: —
+  '115':
+    Move: Reflect
+    Type: Psychic
+    Category: Status
+    PP: 20
+    Power: —
+    Accuracy: —
+  '116':
+    Move: Focus Energy
+    Type: Normal
+    Category: Status
+    PP: 30
+    Power: —
+    Accuracy: —
+  '117':
+    Move: Bide
+    Type: Normal
+    Category: Physical
+    PP: 10
+    Power: —
+    Accuracy: —
+  '118':
+    Move: Metronome
+    Type: Normal
+    Category: Status
+    PP: 10
+    Power: —
+    Accuracy: —
+  '119':
+    Move: Mirror Move
+    Type: Flying
+    Category: Status
+    PP: 20
+    Power: —
+    Accuracy: —
+  '120':
+    Move: Self-Destruct
+    Type: Normal
+    Category: Physical
+    PP: 5
+    Power: 200
+    Accuracy: 100
+  '121':
+    Move: Egg Bomb
+    Type: Normal
+    Category: Physical
+    PP: 10
+    Power: 100
+    Accuracy: 75
+  '122':
+    Move: Lick
+    Type: Ghost
+    Category: Physical
+    PP: 30
+    Power: 30
+    Accuracy: 100
+  '123':
+    Move: Smog
+    Type: Poison
+    Category: Special
+    PP: 20
+    Power: 30
+    Accuracy: 70
+  '124':
+    Move: Sludge
+    Type: Poison
+    Category: Special
+    PP: 20
+    Power: 65
+    Accuracy: 100
+  '125':
+    Move: Bone Club
+    Type: Ground
+    Category: Physical
+    PP: 20
+    Power: 65
+    Accuracy: 85
+  '126':
+    Move: Fire Blast
+    Type: Fire
+    Category: Special
+    PP: 5
+    Power: 110
+    Accuracy: 85
+  '127':
+    Move: Waterfall
+    Type: Water
+    Category: Physical
+    PP: 15
+    Power: 80
+    Accuracy: 100
+  '128':
+    Move: Clamp
+    Type: Water
+    Category: Physical
+    PP: 15
+    Power: 35
+    Accuracy: 85
+  '129':
+    Move: Swift
+    Type: Normal
+    Category: Special
+    PP: 20
+    Power: 60
+    Accuracy: —
+  '130':
+    Move: Skull Bash
+    Type: Normal
+    Category: Physical
+    PP: 10
+    Power: 130
+    Accuracy: 100
+  '131':
+    Move: Spike Cannon
+    Type: Normal
+    Category: Physical
+    PP: 15
+    Power: 20
+    Accuracy: 100
+  '132':
+    Move: Constrict
+    Type: Normal
+    Category: Physical
+    PP: 35
+    Power: 10
+    Accuracy: 100
+  '133':
+    Move: Amnesia
+    Type: Psychic
+    Category: Status
+    PP: 20
+    Power: —
+    Accuracy: —
+  '134':
+    Move: Kinesis
+    Type: Psychic
+    Category: Status
+    PP: 15
+    Power: —
+    Accuracy: 80
+  '135':
+    Move: Soft-Boiled
+    Type: Normal
+    Category: Status
+    PP: 5
+    Power: —
+    Accuracy: —
+  '136':
+    Move: High Jump Kick
+    Type: Fighting
+    Category: Physical
+    PP: 10
+    Power: 130
+    Accuracy: 90
+  '137':
+    Move: Glare
+    Type: Normal
+    Category: Status
+    PP: 30
+    Power: —
+    Accuracy: 100
+  '138':
+    Move: Dream Eater
+    Type: Psychic
+    Category: Special
+    PP: 15
+    Power: 100
+    Accuracy: 100
+  '139':
+    Move: Poison Gas
+    Type: Poison
+    Category: Status
+    Power: 40
+    Accuracy: 90
+  '140':
+    Move: Barrage
+    Type: Normal
+    Category: Physical
+    Power: 20
+    PP: 15
+    Accuracy: 85
+  '141':
+    Move: Leech Life
+    Type: Bug
+    Category: Physical
+    Power: 10
+    PP: 80
+    Accuracy: 100
+  '142':
+    Move: Lovely Kiss
+    Type: Normal
+    Category: Status
+    Power: 10
+    Accuracy: 75
+  '143':
+    Move: Sky Attack
+    Type: Flying
+    Category: Physical
+    Power: 5
+    PP: 140
+    Accuracy: 90
+  '144':
+    Move: Transform
+    Type: Normal
+    Category: Status
+    Power: 10
+  '145':
+    Move: Bubble
+    Type: Water
+    Category: Special
+    Power: 30
+    PP: 40
+    Accuracy: 100
+  '146':
+    Move: Dizzy Punch
+    Type: Normal
+    Category: Physical
+    Power: 10
+    PP: 70
+    Accuracy: 100
+  '147':
+    Move: Spore
+    Type: Grass
+    Category: Status
+    Power: 15
+    Accuracy: 100
+  '148':
+    Move: Flash
+    Type: Normal
+    Category: Status
+    Power: 20
+    Accuracy: 100
+  '149':
+    Move: Psywave
+    Type: Psychic
+    Category: Special
+    Power: 15
+    Accuracy: 100
+  '150':
+    Move: Splash
+    Type: Normal
+    Category: Status
+    Power: 40
+  '151':
+    Move: Acid Armor
+    Type: Poison
+    Category: Status
+    Power: 20
+  '152':
+    Move: Crabhammer
+    Type: Water
+    Category: Physical
+    Power: 10
+    PP: 100
+    Accuracy: 90
+  '153':
+    Move: Explosion
+    Type: Normal
+    Category: Physical
+    Power: 5
+    PP: 250
+    Accuracy: 100
+  '154':
+    Move: Fury Swipes
+    Type: Normal
+    Category: Physical
+    Power: 15
+    PP: 18
+    Accuracy: 80
+  '155':
+    Move: Bonemerang
+    Type: Ground
+    Category: Physical
+    Power: 10
+    PP: 50
+    Accuracy: 90
+  '156':
+    Move: Rest
+    Type: Psychic
+    Category: Status
+    Power: 5
+  '157':
+    Move: Rock Slide
+    Type: Rock
+    Category: Physical
+    Power: 10
+    PP: 75
+    Accuracy: 90
+  '158':
+    Move: Hyper Fang
+    Type: Normal
+    Category: Physical
+    Power: 15
+    PP: 80
+    Accuracy: 90
+  '159':
+    Move: Sharpen
+    Type: Normal
+    Category: Status
+    Power: 30
+  '160':
+    Move: Conversion
+    Type: Normal
+    Category: Status
+    Power: 30
+  '161':
+    Move: Tri Attack
+    Type: Normal
+    Category: Special
+    Power: 10
+    PP: 80
+    Accuracy: 100
+  '162':
+    Move: Super Fang
+    Type: Normal
+    Category: Physical
+    Power: 10
+    Accuracy: 90
+  '163':
+    Move: Slash
+    Type: Normal
+    Category: Physical
+    Power: 20
+    PP: 70
+    Accuracy: 100
+  '164':
+    Move: Substitute
+    Type: Normal
+    Category: Status
+    Power: 10
+  '165':
+    Move: Struggle
+    Type: Normal
+    Category: Physical
+    Power: 1
+    PP: 50

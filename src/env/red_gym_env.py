@@ -527,6 +527,7 @@ class RedGymEnv(Env):
             "badge": lambda: self.get_badges(),
             "explore": lambda:  self.explore_weight * len(self.seen_coords),
             "stuck": lambda: self.get_current_coord_count_reward(),
+            #"level_cap": lambda: self.get_level_constraints_reward(),
         }
 
         state_scores = {
