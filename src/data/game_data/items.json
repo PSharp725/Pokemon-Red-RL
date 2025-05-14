@@ -1,0 +1,1012 @@
+{
+  "ITEMS": {
+    "0x00": {
+      "Name": "No Item",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x01": {
+      "Name": "Master Ball",
+      "Type": "Ball",
+      "Buy": null,
+      "Sell": null,
+      "Location": "Silph Co 11F"
+    },
+    "0x02": {
+      "Name": "Ultra Ball",
+      "Type": "Ball",
+      "Buy": 1200,
+      "Sell": 600,
+      "Location": null
+    },
+    "0x03": {
+      "Name": "Great Ball",
+      "Type": "Ball",
+      "Buy": 600,
+      "Sell": 300,
+      "Location": null
+    },
+    "0x04": {
+      "Name": "Pok\u00e9 Ball",
+      "Type": "Ball",
+      "Buy": 600,
+      "Sell": 300,
+      "Location": null
+    },
+    "0x05": {
+      "Name": "Town Map",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x06": {
+      "Name": "Bicycle",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x07": {
+      "Name": "Surfboard",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x08": {
+      "Name": "Safari Ball",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x09": {
+      "Name": "Pok\u00e9dex",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x0A": {
+      "Name": "Moon Stone",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x0B": {
+      "Name": "Antidote",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x0C": {
+      "Name": "Burn Heal",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x0D": {
+      "Name": "Ice Heal",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x0E": {
+      "Name": "Awakening",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x0F": {
+      "Name": "Parlyz Heal",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x10": {
+      "Name": "Full Restore",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x11": {
+      "Name": "Max Potion",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x12": {
+      "Name": "Hyper Potion",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x13": {
+      "Name": "Super Potion",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x14": {
+      "Name": "Potion",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x15": {
+      "Name": "BoulderBadge",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x16": {
+      "Name": "CascadeBadge",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x17": {
+      "Name": "ThunderBadge",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x18": {
+      "Name": "RainbowBadge",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x19": {
+      "Name": "SoulBadge",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x1A": {
+      "Name": "MarshBadge",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x1B": {
+      "Name": "VolcanoBadge",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x1C": {
+      "Name": "EarthBadge",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x1D": {
+      "Name": "Escape Rope",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x1E": {
+      "Name": "Repel",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x1F": {
+      "Name": "Old Amber",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x20": {
+      "Name": "Fire Stone",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x21": {
+      "Name": "Thunderstone",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x22": {
+      "Name": "Water Stone",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x23": {
+      "Name": "HP Up",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x24": {
+      "Name": "Protein",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x25": {
+      "Name": "Iron",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x26": {
+      "Name": "Carbos",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x27": {
+      "Name": "Calcium",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x28": {
+      "Name": "Rare Candy",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x29": {
+      "Name": "Dome Fossil",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x2A": {
+      "Name": "Helix Fossil",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x2B": {
+      "Name": "Secret Key",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x2C": {
+      "Name": "Unused",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x2D": {
+      "Name": "Bike Voucher",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x2E": {
+      "Name": "X Accuracy",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x2F": {
+      "Name": "Leaf Stone",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x30": {
+      "Name": "Card Key",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x31": {
+      "Name": "Nugget",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x32": {
+      "Name": "PP Up*",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x33": {
+      "Name": "Pok\u00e9 Doll",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x34": {
+      "Name": "Full Heal",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x35": {
+      "Name": "Revive",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x36": {
+      "Name": "Max Revive",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x37": {
+      "Name": "Guard Spec.",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x38": {
+      "Name": "Super Repel",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x39": {
+      "Name": "Max Repel",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x3A": {
+      "Name": "Dire Hit",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x3B": {
+      "Name": "Coin",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x3C": {
+      "Name": "Fresh Water",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x3D": {
+      "Name": "Soda Pop",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x3E": {
+      "Name": "Lemonade",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x3F": {
+      "Name": "S.S. Ticket",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x40": {
+      "Name": "Gold Teeth",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x41": {
+      "Name": "X Attack",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x42": {
+      "Name": "X Defend",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x43": {
+      "Name": "X Speed",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x44": {
+      "Name": "X Special",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x45": {
+      "Name": "Coin Case",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x46": {
+      "Name": "Oak's Parcel",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x47": {
+      "Name": "Itemfinder",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x48": {
+      "Name": "Silph Scope",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x49": {
+      "Name": "Pok\u00e9 Flute",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x4A": {
+      "Name": "Lift Key",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x4B": {
+      "Name": "Exp. All",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x4C": {
+      "Name": "Old Rod",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x4D": {
+      "Name": "Good Rod",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x4E": {
+      "Name": "Super Rod",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x4F": {
+      "Name": "PP Up",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x50": {
+      "Name": "Ether",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x51": {
+      "Name": "Max Ether",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x52": {
+      "Name": "Elixer",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0x53": {
+      "Name": "Max Elixer",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xC4": {
+      "Name": "HM01",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xC5": {
+      "Name": "HM02",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xC6": {
+      "Name": "HM03",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xC7": {
+      "Name": "HM04",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xC8": {
+      "Name": "HM05",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xC9": {
+      "Name": "TM01",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xCA": {
+      "Name": "TM02",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xCB": {
+      "Name": "TM03",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xCC": {
+      "Name": "TM04",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xCD": {
+      "Name": "TM05",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xCE": {
+      "Name": "TM06",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xCF": {
+      "Name": "TM07",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xD0": {
+      "Name": "TM08",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xD1": {
+      "Name": "TM09",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xD2": {
+      "Name": "TM10",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xD3": {
+      "Name": "TM11",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xD4": {
+      "Name": "TM12",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xD5": {
+      "Name": "TM13",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xD6": {
+      "Name": "TM14",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xD7": {
+      "Name": "TM15",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xD8": {
+      "Name": "TM16",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xD9": {
+      "Name": "TM17",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xDA": {
+      "Name": "TM18",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xDB": {
+      "Name": "TM19",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xDC": {
+      "Name": "TM20",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xDD": {
+      "Name": "TM21",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xDE": {
+      "Name": "TM22",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xDF": {
+      "Name": "TM23",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xE0": {
+      "Name": "TM24",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xE1": {
+      "Name": "TM25",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xE2": {
+      "Name": "TM26",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xE3": {
+      "Name": "TM27",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xE4": {
+      "Name": "TM28",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xE5": {
+      "Name": "TM29",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xE6": {
+      "Name": "TM30",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xE7": {
+      "Name": "TM31",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xE8": {
+      "Name": "TM32",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xE9": {
+      "Name": "TM33",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xEA": {
+      "Name": "TM34",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xEB": {
+      "Name": "TM35",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xEC": {
+      "Name": "TM36",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xED": {
+      "Name": "TM37",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xEE": {
+      "Name": "TM38",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xEF": {
+      "Name": "TM39",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xF0": {
+      "Name": "TM40",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xF1": {
+      "Name": "TM41",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xF2": {
+      "Name": "TM42",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xF3": {
+      "Name": "TM43",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xF4": {
+      "Name": "TM44",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xF5": {
+      "Name": "TM45",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xF6": {
+      "Name": "TM46",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xF7": {
+      "Name": "TM47",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xF8": {
+      "Name": "TM48",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xF9": {
+      "Name": "TM49",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xFA": {
+      "Name": "TM50",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xFB": {
+      "Name": "TM51",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xFC": {
+      "Name": "TM52",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xFD": {
+      "Name": "TM53",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xFE": {
+      "Name": "TM54",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    },
+    "0xFF": {
+      "Name": "TM55",
+      "Type": null,
+      "Buy": null,
+      "Sell": null,
+      "Location": null
+    }
+  }
+}

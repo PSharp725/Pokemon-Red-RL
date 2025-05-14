@@ -1,0 +1,148 @@
+{
+  "TRAINERS": {
+    "0x00": {
+      "Name": "Nobody"
+    },
+    "0x01": {
+      "Name": "Youngster"
+    },
+    "0x02": {
+      "Name": "Bug Catcher"
+    },
+    "0x03": {
+      "Name": "Lass"
+    },
+    "0x04": {
+      "Name": "Sailor"
+    },
+    "0x05": {
+      "Name": "Jr Trainer M"
+    },
+    "0x06": {
+      "Name": "Jr Trainer F"
+    },
+    "0x07": {
+      "Name": "Pokemaniac"
+    },
+    "0x08": {
+      "Name": "Super Nerd"
+    },
+    "0x09": {
+      "Name": "Hiker"
+    },
+    "0x0A": {
+      "Name": "Biker"
+    },
+    "0x0B": {
+      "Name": "Burglar"
+    },
+    "0x0C": {
+      "Name": "Engineer"
+    },
+    "0x0D": {
+      "Name": "Unused Juggler"
+    },
+    "0x0E": {
+      "Name": "Fisher"
+    },
+    "0x0F": {
+      "Name": "Swimmer"
+    },
+    "0x10": {
+      "Name": "Cue Ball"
+    },
+    "0x11": {
+      "Name": "Gambler"
+    },
+    "0x12": {
+      "Name": "Beauty"
+    },
+    "0x13": {
+      "Name": "Psychic Tr"
+    },
+    "0x14": {
+      "Name": "Rocker"
+    },
+    "0x15": {
+      "Name": "Juggler"
+    },
+    "0x16": {
+      "Name": "Tamer"
+    },
+    "0x17": {
+      "Name": "Bird Keeper"
+    },
+    "0x18": {
+      "Name": "Blackbelt"
+    },
+    "0x19": {
+      "Name": "Rival1"
+    },
+    "0x1A": {
+      "Name": "Prof Oak"
+    },
+    "0x1B": {
+      "Name": "Chief"
+    },
+    "0x1C": {
+      "Name": "Scientist"
+    },
+    "0x1D": {
+      "Name": "Giovanni"
+    },
+    "0x1E": {
+      "Name": "Rocket"
+    },
+    "0x1F": {
+      "Name": "Cooltrainer M"
+    },
+    "0x20": {
+      "Name": "Cooltrainer F"
+    },
+    "0x21": {
+      "Name": "Bruno"
+    },
+    "0x22": {
+      "Name": "Brock"
+    },
+    "0x23": {
+      "Name": "Misty"
+    },
+    "0x24": {
+      "Name": "Lt Surge"
+    },
+    "0x25": {
+      "Name": "Erika"
+    },
+    "0x26": {
+      "Name": "Koga"
+    },
+    "0x27": {
+      "Name": "Blaine"
+    },
+    "0x28": {
+      "Name": "Sabrina"
+    },
+    "0x29": {
+      "Name": "Gentleman"
+    },
+    "0x2A": {
+      "Name": "Rival2"
+    },
+    "0x2B": {
+      "Name": "Rival3"
+    },
+    "0x2C": {
+      "Name": "Lorelei"
+    },
+    "0x2D": {
+      "Name": "Channeler"
+    },
+    "0x2E": {
+      "Name": "Agatha"
+    },
+    "0x2F": {
+      "Name": "Lance"
+    }
+  }
+}

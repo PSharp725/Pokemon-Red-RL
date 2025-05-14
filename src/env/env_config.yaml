@@ -1,5 +1,4 @@
-ENV:
-  REWARDS:
+REWARDS:
   event: true
   level: true
   heal: true

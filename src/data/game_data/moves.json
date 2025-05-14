@@ -1,0 +1,1276 @@
+{
+  "MOVES": {
+    "0x01": {
+      "Name": "Pound",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 40,
+      "PP": 35,
+      "Accuracy": 100
+    },
+    "0x02": {
+      "Name": "Karate Chop",
+      "Type": "Fighting",
+      "Category": "Physical",
+      "Power": 50,
+      "PP": 25,
+      "Accuracy": 100
+    },
+    "0x03": {
+      "Name": "Doubleslap",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 15,
+      "PP": 10,
+      "Accuracy": 85
+    },
+    "0x04": {
+      "Name": "Comet Punch",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 18,
+      "PP": 15,
+      "Accuracy": 85
+    },
+    "0x05": {
+      "Name": "Mega Punch",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 80,
+      "PP": 20,
+      "Accuracy": 85
+    },
+    "0x06": {
+      "Name": "Pay Day",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 40,
+      "PP": 20,
+      "Accuracy": 100
+    },
+    "0x07": {
+      "Name": "Fire Punch",
+      "Type": "Fire",
+      "Category": "Physical",
+      "Power": 75,
+      "PP": 15,
+      "Accuracy": 100
+    },
+    "0x08": {
+      "Name": "Ice Punch",
+      "Type": "Ice",
+      "Category": "Physical",
+      "Power": 75,
+      "PP": 15,
+      "Accuracy": 100
+    },
+    "0x09": {
+      "Name": "Thunderpunch",
+      "Type": "Electric",
+      "Category": "Physical",
+      "Power": 75,
+      "PP": 15,
+      "Accuracy": 100
+    },
+    "0x0A": {
+      "Name": "Scratch",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 40,
+      "PP": 35,
+      "Accuracy": 100
+    },
+    "0x0C": {
+      "Name": "Guillotine",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": "\u2014",
+      "PP": 5,
+      "Accuracy": 30
+    },
+    "0x0D": {
+      "Name": "Razor Wind",
+      "Type": "Normal",
+      "Category": "Special",
+      "Power": 80,
+      "PP": 10,
+      "Accuracy": 100
+    },
+    "0x0E": {
+      "Name": "Swords Dance",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": "\u2014"
+    },
+    "0x0F": {
+      "Name": "Cut",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 50,
+      "PP": 30,
+      "Accuracy": 95
+    },
+    "0x10": {
+      "Name": "Gust",
+      "Type": "Flying",
+      "Category": "Special",
+      "Power": 40,
+      "PP": 35,
+      "Accuracy": 100
+    },
+    "0x11": {
+      "Name": "Wing Attack",
+      "Type": "Flying",
+      "Category": "Physical",
+      "Power": 60,
+      "PP": 35,
+      "Accuracy": 100
+    },
+    "0x12": {
+      "Name": "Whirlwind",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": "\u2014"
+    },
+    "0x13": {
+      "Name": "Fly",
+      "Type": "Flying",
+      "Category": "Physical",
+      "Power": 90,
+      "PP": 15,
+      "Accuracy": 95
+    },
+    "0x14": {
+      "Name": "Bind",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 15,
+      "PP": 20,
+      "Accuracy": 85
+    },
+    "0x15": {
+      "Name": "Slam",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 80,
+      "PP": 20,
+      "Accuracy": 75
+    },
+    "0x16": {
+      "Name": "Vine Whip",
+      "Type": "Grass",
+      "Category": "Physical",
+      "Power": 45,
+      "PP": 25,
+      "Accuracy": 100
+    },
+    "0x17": {
+      "Name": "Stomp",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 65,
+      "PP": 20,
+      "Accuracy": 100
+    },
+    "0x18": {
+      "Name": "Double Kick",
+      "Type": "Fighting",
+      "Category": "Physical",
+      "Power": 30,
+      "PP": 30,
+      "Accuracy": 100
+    },
+    "0x19": {
+      "Name": "Mega Kick",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 120,
+      "PP": 5,
+      "Accuracy": 75
+    },
+    "0x1A": {
+      "Name": "Jump Kick",
+      "Type": "Fighting",
+      "Category": "Physical",
+      "Power": 100,
+      "PP": 10,
+      "Accuracy": 95
+    },
+    "0x1B": {
+      "Name": "Rolling Kick",
+      "Type": "Fighting",
+      "Category": "Physical",
+      "Power": 60,
+      "PP": 15,
+      "Accuracy": 85
+    },
+    "0x1C": {
+      "Name": "Sand Attack",
+      "Type": "Ground",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 15,
+      "Accuracy": 100
+    },
+    "0x1D": {
+      "Name": "Headbutt",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 70,
+      "PP": 15,
+      "Accuracy": 100
+    },
+    "0x1E": {
+      "Name": "Horn Attack",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 65,
+      "PP": 25,
+      "Accuracy": 100
+    },
+    "0x1F": {
+      "Name": "Fury Attack",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 15,
+      "PP": 20,
+      "Accuracy": 85
+    },
+    "0x20": {
+      "Name": "Horn Drill",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": "\u2014",
+      "PP": 5,
+      "Accuracy": 30
+    },
+    "0x21": {
+      "Name": "Tackle",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 40,
+      "PP": 35,
+      "Accuracy": 100
+    },
+    "0x22": {
+      "Name": "Body Slam",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 85,
+      "PP": 15,
+      "Accuracy": 100
+    },
+    "0x23": {
+      "Name": "Wrap",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 15,
+      "PP": 20,
+      "Accuracy": 90
+    },
+    "0x24": {
+      "Name": "Take Down",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 90,
+      "PP": 20,
+      "Accuracy": 85
+    },
+    "0x25": {
+      "Name": "Thrash",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 120,
+      "PP": 10,
+      "Accuracy": 100
+    },
+    "0x27": {
+      "Name": "Tail Whip",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 30,
+      "Accuracy": 100
+    },
+    "0x28": {
+      "Name": "Poison Sting",
+      "Type": "Poison",
+      "Category": "Physical",
+      "Power": 15,
+      "PP": 35,
+      "Accuracy": 100
+    },
+    "0x29": {
+      "Name": "Twineedle",
+      "Type": "Bug",
+      "Category": "Physical",
+      "Power": 25,
+      "PP": 20,
+      "Accuracy": 100
+    },
+    "0x2A": {
+      "Name": "Pin Missile",
+      "Type": "Bug",
+      "Category": "Physical",
+      "Power": 25,
+      "PP": 20,
+      "Accuracy": 95
+    },
+    "0x2B": {
+      "Name": "Leer",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 30,
+      "Accuracy": 100
+    },
+    "0x2C": {
+      "Name": "Bite",
+      "Type": "Dark",
+      "Category": "Physical",
+      "Power": 60,
+      "PP": 25,
+      "Accuracy": 100
+    },
+    "0x2D": {
+      "Name": "Growl",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 40,
+      "Accuracy": 100
+    },
+    "0x2E": {
+      "Name": "Roar",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": "\u2014"
+    },
+    "0x2F": {
+      "Name": "Sing",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 15,
+      "Accuracy": 55
+    },
+    "0x30": {
+      "Name": "Supersonic",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": 55
+    },
+    "0x31": {
+      "Name": "Sonicboom",
+      "Type": "Normal",
+      "Category": "Special",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": 90
+    },
+    "0x32": {
+      "Name": "Disable",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": 100
+    },
+    "0x33": {
+      "Name": "Acid",
+      "Type": "Poison",
+      "Category": "Special",
+      "Power": 40,
+      "PP": 30,
+      "Accuracy": 100
+    },
+    "0x34": {
+      "Name": "Ember",
+      "Type": "Fire",
+      "Category": "Special",
+      "Power": 40,
+      "PP": 25,
+      "Accuracy": 100
+    },
+    "0x35": {
+      "Name": "Flamethrower",
+      "Type": "Fire",
+      "Category": "Special",
+      "Power": 90,
+      "PP": 15,
+      "Accuracy": 100
+    },
+    "0x36": {
+      "Name": "Mist",
+      "Type": "Ice",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 30,
+      "Accuracy": "\u2014"
+    },
+    "0x37": {
+      "Name": "Water Gun",
+      "Type": "Water",
+      "Category": "Special",
+      "Power": 40,
+      "PP": 25,
+      "Accuracy": 100
+    },
+    "0x38": {
+      "Name": "Hydro Pump",
+      "Type": "Water",
+      "Category": "Special",
+      "Power": 110,
+      "PP": 5,
+      "Accuracy": 80
+    },
+    "0x39": {
+      "Name": "Surf",
+      "Type": "Water",
+      "Category": "Special",
+      "Power": 90,
+      "PP": 15,
+      "Accuracy": 100
+    },
+    "0x3A": {
+      "Name": "Ice Beam",
+      "Type": "Ice",
+      "Category": "Special",
+      "Power": 90,
+      "PP": 10,
+      "Accuracy": 100
+    },
+    "0x3B": {
+      "Name": "Blizzard",
+      "Type": "Ice",
+      "Category": "Special",
+      "Power": 110,
+      "PP": 5,
+      "Accuracy": 70
+    },
+    "0x3C": {
+      "Name": "Psybeam",
+      "Type": "Psychic",
+      "Category": "Special",
+      "Power": 65,
+      "PP": 20,
+      "Accuracy": 100
+    },
+    "0x3D": {
+      "Name": "Bubblebeam",
+      "Type": "Water",
+      "Category": "Special",
+      "Power": 65,
+      "PP": 20,
+      "Accuracy": 100
+    },
+    "0x3E": {
+      "Name": "Aurora Beam",
+      "Type": "Ice",
+      "Category": "Special",
+      "Power": 65,
+      "PP": 20,
+      "Accuracy": 100
+    },
+    "0x3F": {
+      "Name": "Hyper Beam",
+      "Type": "Normal",
+      "Category": "Special",
+      "Power": 150,
+      "PP": 5,
+      "Accuracy": 90
+    },
+    "0x40": {
+      "Name": "Peck",
+      "Type": "Flying",
+      "Category": "Physical",
+      "Power": 35,
+      "PP": 35,
+      "Accuracy": 100
+    },
+    "0x41": {
+      "Name": "Drill Peck",
+      "Type": "Flying",
+      "Category": "Physical",
+      "Power": 80,
+      "PP": 20,
+      "Accuracy": 100
+    },
+    "0x42": {
+      "Name": "Submission",
+      "Type": "Fighting",
+      "Category": "Physical",
+      "Power": 80,
+      "PP": 20,
+      "Accuracy": 80
+    },
+    "0x43": {
+      "Name": "Low Kick",
+      "Type": "Fighting",
+      "Category": "Physical",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": 100
+    },
+    "0x44": {
+      "Name": "Counter",
+      "Type": "Fighting",
+      "Category": "Physical",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": 100
+    },
+    "0x45": {
+      "Name": "Seismic Toss",
+      "Type": "Fighting",
+      "Category": "Physical",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": 100
+    },
+    "0x46": {
+      "Name": "Strength",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 80,
+      "PP": 15,
+      "Accuracy": 100
+    },
+    "0x47": {
+      "Name": "Absorb",
+      "Type": "Grass",
+      "Category": "Special",
+      "Power": 20,
+      "PP": 25,
+      "Accuracy": 100
+    },
+    "0x48": {
+      "Name": "Mega Drain",
+      "Type": "Grass",
+      "Category": "Special",
+      "Power": 40,
+      "PP": 15,
+      "Accuracy": 100
+    },
+    "0x49": {
+      "Name": "Leech Seed",
+      "Type": "Grass",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 10,
+      "Accuracy": 90
+    },
+    "0x4A": {
+      "Name": "Growth",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": "\u2014"
+    },
+    "0x4B": {
+      "Name": "Razor Leaf",
+      "Type": "Grass",
+      "Category": "Physical",
+      "Power": 55,
+      "PP": 25,
+      "Accuracy": 95
+    },
+    "0x4C": {
+      "Name": "Solarbeam",
+      "Type": "Grass",
+      "Category": "Special",
+      "Power": 120,
+      "PP": 10,
+      "Accuracy": 100
+    },
+    "0x4D": {
+      "Name": "Poisonpowder",
+      "Type": "Poison",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 35,
+      "Accuracy": 75
+    },
+    "0x4E": {
+      "Name": "Stun Spore",
+      "Type": "Grass",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 30,
+      "Accuracy": 75
+    },
+    "0x4F": {
+      "Name": "Sleep Powder",
+      "Type": "Grass",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 15,
+      "Accuracy": 75
+    },
+    "0x50": {
+      "Name": "Petal Dance",
+      "Type": "Grass",
+      "Category": "Special",
+      "Power": 120,
+      "PP": 10,
+      "Accuracy": 100
+    },
+    "0x51": {
+      "Name": "String Shot",
+      "Type": "Bug",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 40,
+      "Accuracy": 95
+    },
+    "0x52": {
+      "Name": "Dragon Rage",
+      "Type": "Dragon",
+      "Category": "Special",
+      "Power": "\u2014",
+      "PP": 10,
+      "Accuracy": 100
+    },
+    "0x53": {
+      "Name": "Fire Spin",
+      "Type": "Fire",
+      "Category": "Special",
+      "Power": 35,
+      "PP": 15,
+      "Accuracy": 85
+    },
+    "0x54": {
+      "Name": "Thundershock",
+      "Type": "Electric",
+      "Category": "Special",
+      "Power": 40,
+      "PP": 30,
+      "Accuracy": 100
+    },
+    "0x55": {
+      "Name": "Thunderbolt",
+      "Type": "Electric",
+      "Category": "Special",
+      "Power": 90,
+      "PP": 15,
+      "Accuracy": 100
+    },
+    "0x56": {
+      "Name": "Thunder Wave",
+      "Type": "Electric",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": 90
+    },
+    "0x57": {
+      "Name": "Thunder",
+      "Type": "Electric",
+      "Category": "Special",
+      "Power": 110,
+      "PP": 10,
+      "Accuracy": 70
+    },
+    "0x58": {
+      "Name": "Rock Throw",
+      "Type": "Rock",
+      "Category": "Physical",
+      "Power": 50,
+      "PP": 15,
+      "Accuracy": 90
+    },
+    "0x59": {
+      "Name": "Earthquake",
+      "Type": "Ground",
+      "Category": "Physical",
+      "Power": 100,
+      "PP": 10,
+      "Accuracy": 100
+    },
+    "0x5A": {
+      "Name": "Fissure",
+      "Type": "Ground",
+      "Category": "Physical",
+      "Power": "\u2014",
+      "PP": 5,
+      "Accuracy": 30
+    },
+    "0x5B": {
+      "Name": "Dig",
+      "Type": "Ground",
+      "Category": "Physical",
+      "Power": 80,
+      "PP": 10,
+      "Accuracy": 100
+    },
+    "0x5C": {
+      "Name": "Toxic",
+      "Type": "Poison",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 10,
+      "Accuracy": 90
+    },
+    "0x5D": {
+      "Name": "Confusion",
+      "Type": "Psychic",
+      "Category": "Special",
+      "Power": 50,
+      "PP": 25,
+      "Accuracy": 100
+    },
+    "0x5F": {
+      "Name": "Hypnosis",
+      "Type": "Psychic",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": 60
+    },
+    "0x60": {
+      "Name": "Meditate",
+      "Type": "Psychic",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 40,
+      "Accuracy": "\u2014"
+    },
+    "0x61": {
+      "Name": "Agility",
+      "Type": "Psychic",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 30,
+      "Accuracy": "\u2014"
+    },
+    "0x62": {
+      "Name": "Quick Attack",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 40,
+      "PP": 30,
+      "Accuracy": 100
+    },
+    "0x63": {
+      "Name": "Rage",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 20,
+      "PP": 20,
+      "Accuracy": 100
+    },
+    "0x64": {
+      "Name": "Teleport",
+      "Type": "Psychic",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": "\u2014"
+    },
+    "0x65": {
+      "Name": "Night Shade",
+      "Type": "Ghost",
+      "Category": "Special",
+      "Power": "\u2014",
+      "PP": 15,
+      "Accuracy": 100
+    },
+    "0x66": {
+      "Name": "Mimic",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 10,
+      "Accuracy": "\u2014"
+    },
+    "0x67": {
+      "Name": "Screech",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 40,
+      "Accuracy": 85
+    },
+    "0x68": {
+      "Name": "Double Team",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 15,
+      "Accuracy": "\u2014"
+    },
+    "0x69": {
+      "Name": "Recover",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 5,
+      "Accuracy": "\u2014"
+    },
+    "0x6A": {
+      "Name": "Harden",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 30,
+      "Accuracy": "\u2014"
+    },
+    "0x6B": {
+      "Name": "Minimize",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 10,
+      "Accuracy": "\u2014"
+    },
+    "0x6C": {
+      "Name": "Smokescreen",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": 100
+    },
+    "0x6D": {
+      "Name": "Confuse Ray",
+      "Type": "Ghost",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 10,
+      "Accuracy": 100
+    },
+    "0x6E": {
+      "Name": "Withdraw",
+      "Type": "Water",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 40,
+      "Accuracy": "\u2014"
+    },
+    "0x6F": {
+      "Name": "Defense Curl",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 40,
+      "Accuracy": "\u2014"
+    },
+    "0x70": {
+      "Name": "Barrier",
+      "Type": "Psychic",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": "\u2014"
+    },
+    "0x71": {
+      "Name": "Light Screen",
+      "Type": "Psychic",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 30,
+      "Accuracy": "\u2014"
+    },
+    "0x72": {
+      "Name": "Haze",
+      "Type": "Ice",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 30,
+      "Accuracy": "\u2014"
+    },
+    "0x73": {
+      "Name": "Reflect",
+      "Type": "Psychic",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": "\u2014"
+    },
+    "0x74": {
+      "Name": "Focus Energy",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 30,
+      "Accuracy": "\u2014"
+    },
+    "0x75": {
+      "Name": "Bide",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": "\u2014",
+      "PP": 10,
+      "Accuracy": "\u2014"
+    },
+    "0x76": {
+      "Name": "Metronome",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 10,
+      "Accuracy": "\u2014"
+    },
+    "0x77": {
+      "Name": "Mirror Move",
+      "Type": "Flying",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": "\u2014"
+    },
+    "0x79": {
+      "Name": "Egg Bomb",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 100,
+      "PP": 10,
+      "Accuracy": 75
+    },
+    "0x7A": {
+      "Name": "Lick",
+      "Type": "Ghost",
+      "Category": "Physical",
+      "Power": 30,
+      "PP": 30,
+      "Accuracy": 100
+    },
+    "0x7B": {
+      "Name": "Smog",
+      "Type": "Poison",
+      "Category": "Special",
+      "Power": 30,
+      "PP": 20,
+      "Accuracy": 70
+    },
+    "0x7C": {
+      "Name": "Sludge",
+      "Type": "Poison",
+      "Category": "Special",
+      "Power": 65,
+      "PP": 20,
+      "Accuracy": 100
+    },
+    "0x7D": {
+      "Name": "Bone Club",
+      "Type": "Ground",
+      "Category": "Physical",
+      "Power": 65,
+      "PP": 20,
+      "Accuracy": 85
+    },
+    "0x7E": {
+      "Name": "Fire Blast",
+      "Type": "Fire",
+      "Category": "Special",
+      "Power": 110,
+      "PP": 5,
+      "Accuracy": 85
+    },
+    "0x7F": {
+      "Name": "Waterfall",
+      "Type": "Water",
+      "Category": "Physical",
+      "Power": 80,
+      "PP": 15,
+      "Accuracy": 100
+    },
+    "0x80": {
+      "Name": "Clamp",
+      "Type": "Water",
+      "Category": "Physical",
+      "Power": 35,
+      "PP": 15,
+      "Accuracy": 85
+    },
+    "0x81": {
+      "Name": "Swift",
+      "Type": "Normal",
+      "Category": "Special",
+      "Power": 60,
+      "PP": 20,
+      "Accuracy": "\u2014"
+    },
+    "0x82": {
+      "Name": "Skull Bash",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 130,
+      "PP": 10,
+      "Accuracy": 100
+    },
+    "0x83": {
+      "Name": "Spike Cannon",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 20,
+      "PP": 15,
+      "Accuracy": 100
+    },
+    "0x84": {
+      "Name": "Constrict",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 10,
+      "PP": 35,
+      "Accuracy": 100
+    },
+    "0x85": {
+      "Name": "Amnesia",
+      "Type": "Psychic",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 20,
+      "Accuracy": "\u2014"
+    },
+    "0x86": {
+      "Name": "Kinesis",
+      "Type": "Psychic",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 15,
+      "Accuracy": 80
+    },
+    "0x89": {
+      "Name": "Glare",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": "\u2014",
+      "PP": 30,
+      "Accuracy": 100
+    },
+    "0x8A": {
+      "Name": "Dream Eater",
+      "Type": "Psychic",
+      "Category": "Special",
+      "Power": 100,
+      "PP": 15,
+      "Accuracy": 100
+    },
+    "0x8B": {
+      "Name": "Poison Gas",
+      "Type": "Poison",
+      "Category": "Status",
+      "Power": 40,
+      "PP": null,
+      "Accuracy": 90
+    },
+    "0x8C": {
+      "Name": "Barrage",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 20,
+      "PP": 15,
+      "Accuracy": 85
+    },
+    "0x8D": {
+      "Name": "Leech Life",
+      "Type": "Bug",
+      "Category": "Physical",
+      "Power": 10,
+      "PP": 80,
+      "Accuracy": 100
+    },
+    "0x8E": {
+      "Name": "Lovely Kiss",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": 10,
+      "PP": null,
+      "Accuracy": 75
+    },
+    "0x8F": {
+      "Name": "Sky Attack",
+      "Type": "Flying",
+      "Category": "Physical",
+      "Power": 5,
+      "PP": 140,
+      "Accuracy": 90
+    },
+    "0x90": {
+      "Name": "Transform",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": 10,
+      "PP": null,
+      "Accuracy": null
+    },
+    "0x91": {
+      "Name": "Bubble",
+      "Type": "Water",
+      "Category": "Special",
+      "Power": 30,
+      "PP": 40,
+      "Accuracy": 100
+    },
+    "0x92": {
+      "Name": "Dizzy Punch",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 10,
+      "PP": 70,
+      "Accuracy": 100
+    },
+    "0x93": {
+      "Name": "Spore",
+      "Type": "Grass",
+      "Category": "Status",
+      "Power": 15,
+      "PP": null,
+      "Accuracy": 100
+    },
+    "0x94": {
+      "Name": "Flash",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": 20,
+      "PP": null,
+      "Accuracy": 100
+    },
+    "0x95": {
+      "Name": "Psywave",
+      "Type": "Psychic",
+      "Category": "Special",
+      "Power": 15,
+      "PP": null,
+      "Accuracy": 100
+    },
+    "0x96": {
+      "Name": "Splash",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": 40,
+      "PP": null,
+      "Accuracy": null
+    },
+    "0x97": {
+      "Name": "Acid Armor",
+      "Type": "Poison",
+      "Category": "Status",
+      "Power": 20,
+      "PP": null,
+      "Accuracy": null
+    },
+    "0x98": {
+      "Name": "Crabhammer",
+      "Type": "Water",
+      "Category": "Physical",
+      "Power": 10,
+      "PP": 100,
+      "Accuracy": 90
+    },
+    "0x99": {
+      "Name": "Explosion",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 5,
+      "PP": 250,
+      "Accuracy": 100
+    },
+    "0x9A": {
+      "Name": "Fury Swipes",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 15,
+      "PP": 18,
+      "Accuracy": 80
+    },
+    "0x9B": {
+      "Name": "Bonemerang",
+      "Type": "Ground",
+      "Category": "Physical",
+      "Power": 10,
+      "PP": 50,
+      "Accuracy": 90
+    },
+    "0x9C": {
+      "Name": "Rest",
+      "Type": "Psychic",
+      "Category": "Status",
+      "Power": 5,
+      "PP": null,
+      "Accuracy": null
+    },
+    "0x9D": {
+      "Name": "Rock Slide",
+      "Type": "Rock",
+      "Category": "Physical",
+      "Power": 10,
+      "PP": 75,
+      "Accuracy": 90
+    },
+    "0x9E": {
+      "Name": "Hyper Fang",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 15,
+      "PP": 80,
+      "Accuracy": 90
+    },
+    "0x9F": {
+      "Name": "Sharpen",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": 30,
+      "PP": null,
+      "Accuracy": null
+    },
+    "0xA0": {
+      "Name": "Conversion",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": 30,
+      "PP": null,
+      "Accuracy": null
+    },
+    "0xA1": {
+      "Name": "Tri Attack",
+      "Type": "Normal",
+      "Category": "Special",
+      "Power": 10,
+      "PP": 80,
+      "Accuracy": 100
+    },
+    "0xA2": {
+      "Name": "Super Fang",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 10,
+      "PP": null,
+      "Accuracy": 90
+    },
+    "0xA3": {
+      "Name": "Slash",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 20,
+      "PP": 70,
+      "Accuracy": 100
+    },
+    "0xA4": {
+      "Name": "Substitute",
+      "Type": "Normal",
+      "Category": "Status",
+      "Power": 10,
+      "PP": null,
+      "Accuracy": null
+    },
+    "0xA5": {
+      "Name": "Struggle",
+      "Type": "Normal",
+      "Category": "Physical",
+      "Power": 1,
+      "PP": 50,
+      "Accuracy": null
+    }
+  }
+}

@@ -1,0 +1,1505 @@
+{
+  "POKEMON": {
+    "0x00": {
+      "name": "No Pokemon",
+      "dex": null,
+      "decimal": "0",
+      "type": [
+          "None"
+      ]
+    },
+    "0x01": {
+      "name": "Rhydon",
+      "dex": null,
+      "decimal": "1",
+      "type": [
+        "Ground",
+        "Rock"
+      ]
+    },
+    "0x02": {
+      "name": "Kangaskhan",
+      "dex": null,
+      "decimal": "2",
+      "type": [
+        "Normal"
+      ]
+    },
+    "0x03": {
+      "name": "Nidoran\u2642",
+      "dex": null,
+      "decimal": "3",
+      "type": [
+        "Poison"
+      ]
+    },
+    "0x04": {
+      "name": "Clefairy",
+      "dex": null,
+      "decimal": "4",
+      "type": [
+        "Normal"
+      ]
+    },
+    "0x05": {
+      "name": "Spearow",
+      "dex": null,
+      "decimal": "5",
+      "type": [
+        "Normal",
+        "Flying"
+      ]
+    },
+    "0x06": {
+      "name": "Voltorb",
+      "dex": null,
+      "decimal": "6",
+      "type": [
+        "Electric"
+      ]
+    },
+    "0x07": {
+      "name": "Nidoking",
+      "dex": null,
+      "decimal": "7",
+      "type": [
+        "Poison",
+        "Ground"
+      ]
+    },
+    "0x08": {
+      "name": "Slowbro",
+      "dex": null,
+      "decimal": "8",
+      "type": [
+        "Water",
+        "Psychic"
+      ]
+    },
+    "0x09": {
+      "name": "Ivysaur",
+      "dex": null,
+      "decimal": "9",
+      "type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    "0x0A": {
+      "name": "Exeggutor",
+      "dex": null,
+      "decimal": "10",
+      "type": [
+        "Grass",
+        "Psychic"
+      ]
+    },
+    "0x0B": {
+      "name": "Lickitung",
+      "dex": null,
+      "decimal": "11",
+      "type": [
+        "Normal"
+      ]
+    },
+    "0x0C": {
+      "name": "Exeggcute",
+      "dex": null,
+      "decimal": "12",
+      "type": [
+        "Grass",
+        "Psychic"
+      ]
+    },
+    "0x0D": {
+      "name": "Grimer",
+      "dex": null,
+      "decimal": "13",
+      "type": [
+        "Poison"
+      ]
+    },
+    "0x0E": {
+      "name": "Gengar",
+      "dex": null,
+      "decimal": "14",
+      "type": [
+        "Ghost",
+        "Poison"
+      ]
+    },
+    "0x0F": {
+      "name": "Nidoran\u2640",
+      "dex": null,
+      "decimal": "15",
+      "type": [
+        "Poison"
+      ]
+    },
+    "0x10": {
+      "name": "Nidoqueen",
+      "dex": null,
+      "decimal": "16",
+      "type": [
+        "Poison",
+        "Ground"
+      ]
+    },
+    "0x11": {
+      "name": "Cubone",
+      "dex": null,
+      "decimal": "17",
+      "type": [
+        "Ground"
+      ]
+    },
+    "0x12": {
+      "name": "Rhyhorn",
+      "dex": null,
+      "decimal": "18",
+      "type": [
+        "Ground",
+        "Rock"
+      ]
+    },
+    "0x13": {
+      "name": "Lapras",
+      "dex": null,
+      "decimal": "19",
+      "type": [
+        "Water",
+        "Ice"
+      ]
+    },
+    "0x14": {
+      "name": "Arcanine",
+      "dex": null,
+      "decimal": "20",
+      "type": [
+        "Fire"
+      ]
+    },
+    "0x15": {
+      "name": "Mew",
+      "dex": null,
+      "decimal": "21",
+      "type": [
+        "Psychic"
+      ]
+    },
+    "0x16": {
+      "name": "Gyarados",
+      "dex": null,
+      "decimal": "22",
+      "type": [
+        "Water",
+        "Flying"
+      ]
+    },
+    "0x17": {
+      "name": "Shellder",
+      "dex": null,
+      "decimal": "23",
+      "type": [
+        "Water"
+      ]
+    },
+    "0x18": {
+      "name": "Tentacool",
+      "dex": null,
+      "decimal": "24",
+      "type": [
+        "Water",
+        "Poison"
+      ]
+    },
+    "0x19": {
+      "name": "Gastly",
+      "dex": null,
+      "decimal": "25",
+      "type": [
+        "Ghost",
+        "Poison"
+      ]
+    },
+    "0x1A": {
+      "name": "Scyther",
+      "dex": null,
+      "decimal": "26",
+      "type": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    "0x1B": {
+      "name": "Staryu",
+      "dex": null,
+      "decimal": "27",
+      "type": [
+        "Water"
+      ]
+    },
+    "0x1C": {
+      "name": "Blastoise",
+      "dex": null,
+      "decimal": "28",
+      "type": [
+        "Water"
+      ]
+    },
+    "0x1D": {
+      "name": "Pinsir",
+      "dex": null,
+      "decimal": "29",
+      "type": [
+        "Bug"
+      ]
+    },
+    "0x1E": {
+      "name": "Tangela",
+      "dex": null,
+      "decimal": "30",
+      "type": [
+        "Grass"
+      ]
+    },
+    "0x1F": {
+      "name": "MissingNo. (Scizor)",
+      "dex": null,
+      "decimal": "31",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x20": {
+      "name": "MissingNo. (Shuckle)",
+      "dex": null,
+      "decimal": "32",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x21": {
+      "name": "Growlithe",
+      "dex": null,
+      "decimal": "33",
+      "type": [
+        "Fire"
+      ]
+    },
+    "0x22": {
+      "name": "Onix",
+      "dex": null,
+      "decimal": "34",
+      "type": [
+        "Rock",
+        "Ground"
+      ]
+    },
+    "0x23": {
+      "name": "Fearow",
+      "dex": null,
+      "decimal": "35",
+      "type": [
+        "Normal",
+        "Flying"
+      ]
+    },
+    "0x24": {
+      "name": "Pidgey",
+      "dex": null,
+      "decimal": "36",
+      "type": [
+        "Normal",
+        "Flying"
+      ]
+    },
+    "0x25": {
+      "name": "Slowpoke",
+      "dex": null,
+      "decimal": "37",
+      "type": [
+        "Water",
+        "Psychic"
+      ]
+    },
+    "0x26": {
+      "name": "Kadabra",
+      "dex": null,
+      "decimal": "38",
+      "type": [
+        "Psychic"
+      ]
+    },
+    "0x27": {
+      "name": "Graveler",
+      "dex": null,
+      "decimal": "39",
+      "type": [
+        "Rock",
+        "Ground"
+      ]
+    },
+    "0x28": {
+      "name": "Chansey",
+      "dex": null,
+      "decimal": "40",
+      "type": [
+        "Normal"
+      ]
+    },
+    "0x29": {
+      "name": "Machoke",
+      "dex": null,
+      "decimal": "41",
+      "type": [
+        "Fighting"
+      ]
+    },
+    "0x2A": {
+      "name": "Mr. Mime",
+      "dex": null,
+      "decimal": "42",
+      "type": [
+        "Psychic"
+      ]
+    },
+    "0x2B": {
+      "name": "Hitmonlee",
+      "dex": null,
+      "decimal": "43",
+      "type": [
+        "Fighting"
+      ]
+    },
+    "0x2C": {
+      "name": "Hitmonchan",
+      "dex": null,
+      "decimal": "44",
+      "type": [
+        "Fighting"
+      ]
+    },
+    "0x2D": {
+      "name": "Arbok",
+      "dex": null,
+      "decimal": "45",
+      "type": [
+        "Poison"
+      ]
+    },
+    "0x2E": {
+      "name": "Parasect",
+      "dex": null,
+      "decimal": "46",
+      "type": [
+        "Bug",
+        "Grass"
+      ]
+    },
+    "0x2F": {
+      "name": "Psyduck",
+      "dex": null,
+      "decimal": "47",
+      "type": [
+        "Water"
+      ]
+    },
+    "0x30": {
+      "name": "Drowzee",
+      "dex": null,
+      "decimal": "48",
+      "type": [
+        "Psychic"
+      ]
+    },
+    "0x31": {
+      "name": "Golem",
+      "dex": null,
+      "decimal": "49",
+      "type": [
+        "Rock",
+        "Ground"
+      ]
+    },
+    "0x32": {
+      "name": "MissingNo. (Heracross)",
+      "dex": null,
+      "decimal": "50",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x33": {
+      "name": "Magmar",
+      "dex": null,
+      "decimal": "51",
+      "type": [
+        "Fire"
+      ]
+    },
+    "0x34": {
+      "name": "MissingNo. (Ho-Oh)",
+      "dex": null,
+      "decimal": "52",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x35": {
+      "name": "Electabuzz",
+      "dex": null,
+      "decimal": "53",
+      "type": [
+        "Electric"
+      ]
+    },
+    "0x36": {
+      "name": "Magneton",
+      "dex": null,
+      "decimal": "54",
+      "type": [
+        "Electric"
+      ]
+    },
+    "0x37": {
+      "name": "Koffing",
+      "dex": null,
+      "decimal": "55",
+      "type": [
+        "Poison"
+      ]
+    },
+    "0x38": {
+      "name": "MissingNo. (Sneasel)",
+      "dex": null,
+      "decimal": "56",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x39": {
+      "name": "Mankey",
+      "dex": null,
+      "decimal": "57",
+      "type": [
+        "Fighting"
+      ]
+    },
+    "0x3A": {
+      "name": "Seel",
+      "dex": null,
+      "decimal": "58",
+      "type": [
+        "Water"
+      ]
+    },
+    "0x3B": {
+      "name": "Diglett",
+      "dex": null,
+      "decimal": "59",
+      "type": [
+        "Ground"
+      ]
+    },
+    "0x3C": {
+      "name": "Tauros",
+      "dex": null,
+      "decimal": "60",
+      "type": [
+        "Normal"
+      ]
+    },
+    "0x3D": {
+      "name": "MissingNo. (Teddiursa)",
+      "dex": null,
+      "decimal": "61",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x3E": {
+      "name": "MissingNo. (Ursaring)",
+      "dex": null,
+      "decimal": "62",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x3F": {
+      "name": "MissingNo. (Slugma)",
+      "dex": null,
+      "decimal": "63",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x40": {
+      "name": "Farfetch'd",
+      "dex": null,
+      "decimal": "64",
+      "type": [
+        "Normal",
+        "Flying"
+      ]
+    },
+    "0x41": {
+      "name": "Venonat",
+      "dex": null,
+      "decimal": "65",
+      "type": [
+        "Bug",
+        "Poison"
+      ]
+    },
+    "0x42": {
+      "name": "Dragonite",
+      "dex": null,
+      "decimal": "66",
+      "type": [
+        "Dragon",
+        "Flying"
+      ]
+    },
+    "0x43": {
+      "name": "MissingNo. (Magcargo)",
+      "dex": null,
+      "decimal": "67",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x44": {
+      "name": "MissingNo. (Swinub)",
+      "dex": null,
+      "decimal": "68",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x45": {
+      "name": "MissingNo. (Piloswine)",
+      "dex": null,
+      "decimal": "69",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x46": {
+      "name": "Doduo",
+      "dex": null,
+      "decimal": "70",
+      "type": [
+        "Normal",
+        "Flying"
+      ]
+    },
+    "0x47": {
+      "name": "Poliwag",
+      "dex": null,
+      "decimal": "71",
+      "type": [
+        "Water"
+      ]
+    },
+    "0x48": {
+      "name": "Jynx",
+      "dex": null,
+      "decimal": "72",
+      "type": [
+        "Ice",
+        "Psychic"
+      ]
+    },
+    "0x49": {
+      "name": "Moltres",
+      "dex": null,
+      "decimal": "73",
+      "type": [
+        "Fire",
+        "Flying"
+      ]
+    },
+    "0x4A": {
+      "name": "Articuno",
+      "dex": null,
+      "decimal": "74",
+      "type": [
+        "Ice",
+        "Flying"
+      ]
+    },
+    "0x4B": {
+      "name": "Zapdos",
+      "dex": null,
+      "decimal": "75",
+      "type": [
+        "Electric",
+        "Flying"
+      ]
+    },
+    "0x4C": {
+      "name": "Ditto",
+      "dex": null,
+      "decimal": "76",
+      "type": [
+        "Normal"
+      ]
+    },
+    "0x4D": {
+      "name": "Meowth",
+      "dex": null,
+      "decimal": "77",
+      "type": [
+        "Normal"
+      ]
+    },
+    "0x4E": {
+      "name": "Krabby",
+      "dex": null,
+      "decimal": "78",
+      "type": [
+        "Water"
+      ]
+    },
+    "0x4F": {
+      "name": "MissingNo. (Corsola)",
+      "dex": null,
+      "decimal": "79",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x50": {
+      "name": "MissingNo. (Remoraid)",
+      "dex": null,
+      "decimal": "80",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x51": {
+      "name": "MissingNo. (Octillery)",
+      "dex": null,
+      "decimal": "81",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x52": {
+      "name": "Vulpix",
+      "dex": null,
+      "decimal": "82",
+      "type": [
+        "Fire"
+      ]
+    },
+    "0x53": {
+      "name": "Ninetales",
+      "dex": null,
+      "decimal": "83",
+      "type": [
+        "Fire"
+      ]
+    },
+    "0x54": {
+      "name": "Pikachu",
+      "dex": null,
+      "decimal": "84",
+      "type": [
+        "Electric"
+      ]
+    },
+    "0x55": {
+      "name": "Raichu",
+      "dex": null,
+      "decimal": "85",
+      "type": [
+        "Electric"
+      ]
+    },
+    "0x56": {
+      "name": "MissingNo. (Deli)",
+      "dex": null,
+      "decimal": "86",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x57": {
+      "name": "MissingNo. (Mantine)",
+      "dex": null,
+      "decimal": "87",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x58": {
+      "name": "Dratini",
+      "dex": null,
+      "decimal": "88",
+      "type": [
+        "Dragon"
+      ]
+    },
+    "0x59": {
+      "name": "Dragonair",
+      "dex": null,
+      "decimal": "89",
+      "type": [
+        "Dragon"
+      ]
+    },
+    "0x5A": {
+      "name": "Kabuto",
+      "dex": null,
+      "decimal": "90",
+      "type": [
+        "Rock",
+        "Water"
+      ]
+    },
+    "0x5B": {
+      "name": "Kabutops",
+      "dex": null,
+      "decimal": "91",
+      "type": [
+        "Rock",
+        "Water"
+      ]
+    },
+    "0x5C": {
+      "name": "Horsea",
+      "dex": null,
+      "decimal": "92",
+      "type": "Water"
+    },
+    "0x5D": {
+      "name": "Seadra",
+      "dex": null,
+      "decimal": "93",
+      "type": [
+        "Water"
+      ]
+    },
+    "0x5E": {
+      "name": "MissingNo. (Skarmory)",
+      "dex": null,
+      "decimal": "94",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x5F": {
+      "name": "MissingNo. (Houndour)",
+      "dex": null,
+      "decimal": "95",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x60": {
+      "name": "Sandshrew",
+      "dex": null,
+      "decimal": "96",
+      "type": [
+        "Ground"
+      ]
+    },
+    "0x61": {
+      "name": "Sandslash",
+      "dex": null,
+      "decimal": "97",
+      "type": [
+        "Ground"
+      ]
+    },
+    "0x62": {
+      "name": "Omanyte",
+      "dex": null,
+      "decimal": "98",
+      "type": [
+        "Rock",
+        "Water"
+      ]
+    },
+    "0x63": {
+      "name": "Omastar",
+      "dex": null,
+      "decimal": "99",
+      "type": [
+        "Rock",
+        "Water"
+      ]
+    },
+    "0x64": {
+      "name": "Jigglypuff",
+      "dex": null,
+      "decimal": "100",
+      "type": [
+        "Normal"
+      ]
+    },
+    "0x65": {
+      "name": "Wigglytuff",
+      "dex": null,
+      "decimal": "101",
+      "type": [
+        "Normal"
+      ]
+    },
+    "0x66": {
+      "name": "Eevee",
+      "dex": null,
+      "decimal": "102",
+      "type": [
+        "Normal"
+      ]
+    },
+    "0x67": {
+      "name": "Flareon",
+      "dex": null,
+      "decimal": "103",
+      "type": [
+        "Fire"
+      ]
+    },
+    "0x68": {
+      "name": "Jolteon",
+      "dex": null,
+      "decimal": "104",
+      "type": [
+        "Electric"
+      ]
+    },
+    "0x69": {
+      "name": "Vaporeon",
+      "dex": null,
+      "decimal": "105",
+      "type": [
+        "Water"
+      ]
+    },
+    "0x6A": {
+      "name": "Machop",
+      "dex": null,
+      "decimal": "106",
+      "type": [
+        "Fighting"
+      ]
+    },
+    "0x6B": {
+      "name": "Zubat",
+      "dex": null,
+      "decimal": "107",
+      "type": [
+        "Poison",
+        "Flying"
+      ]
+    },
+    "0x6C": {
+      "name": "Ekans",
+      "dex": null,
+      "decimal": "108",
+      "type": [
+        "Poison"
+      ]
+    },
+    "0x6D": {
+      "name": "Paras",
+      "dex": null,
+      "decimal": "109",
+      "type": [
+        "Bug",
+        "Grass"
+      ]
+    },
+    "0x6E": {
+      "name": "Poliwhirl",
+      "dex": null,
+      "decimal": "110",
+      "type": [
+        "Water"
+      ]
+    },
+    "0x6F": {
+      "name": "Poliwrath",
+      "dex": null,
+      "decimal": "111",
+      "type": [
+        "Water",
+        "Fighting"
+      ]
+    },
+    "0x70": {
+      "name": "Weedle",
+      "dex": null,
+      "decimal": "112",
+      "type": [
+        "Bug",
+        "Poison"
+      ]
+    },
+    "0x71": {
+      "name": "Kakuna",
+      "dex": null,
+      "decimal": "113",
+      "type": [
+        "Bug",
+        "Poison"
+      ]
+    },
+    "0x72": {
+      "name": "Beedrill",
+      "dex": null,
+      "decimal": "114",
+      "type": [
+        "Bug",
+        "Poison"
+      ]
+    },
+    "0x73": {
+      "name": "MissingNo. (Houndoom)",
+      "dex": null,
+      "decimal": "115",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x74": {
+      "name": "Dodrio",
+      "dex": null,
+      "decimal": "116",
+      "type": [
+        "Normal",
+        "Flying"
+      ]
+    },
+    "0x75": {
+      "name": "Primeape",
+      "dex": null,
+      "decimal": "117",
+      "type": [
+        "Fighting"
+      ]
+    },
+    "0x76": {
+      "name": "Dugtrio",
+      "dex": null,
+      "decimal": "118",
+      "type": [
+        "Ground"
+      ]
+    },
+    "0x77": {
+      "name": "Venomoth",
+      "dex": null,
+      "decimal": "119",
+      "type": [
+        "Bug",
+        "Poison"
+      ]
+    },
+    "0x78": {
+      "name": "Dewgong",
+      "dex": null,
+      "decimal": "120",
+      "type": [
+        "Water",
+        "Ice"
+      ]
+    },
+    "0x79": {
+      "name": "MissingNo. (Kingdra)",
+      "dex": null,
+      "decimal": "121",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x7A": {
+      "name": "MissingNo. (Phanpy)",
+      "dex": null,
+      "decimal": "122",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x7B": {
+      "name": "Caterpie",
+      "dex": null,
+      "decimal": "123",
+      "type": [
+        "Bug"
+      ]
+    },
+    "0x7C": {
+      "name": "Metapod",
+      "dex": null,
+      "decimal": "124",
+      "type": [
+        "Bug"
+      ]
+    },
+    "0x7D": {
+      "name": "Butterfree",
+      "dex": null,
+      "decimal": "125",
+      "type": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    "0x7E": {
+      "name": "Machamp",
+      "dex": null,
+      "decimal": "126",
+      "type": [
+        "Fighting"
+      ]
+    },
+    "0x7F": {
+      "name": "MissingNo. (Donphan)",
+      "dex": null,
+      "decimal": "127",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x80": {
+      "name": "Golduck",
+      "dex": null,
+      "decimal": "128",
+      "type": [
+        "Water"
+      ]
+    },
+    "0x81": {
+      "name": "Hypno",
+      "dex": null,
+      "decimal": "129",
+      "type": [
+        "Psychic"
+      ]
+    },
+    "0x82": {
+      "name": "Golbat",
+      "dex": null,
+      "decimal": "130",
+      "type": [
+        "Poison",
+        "Flying"
+      ]
+    },
+    "0x83": {
+      "name": "Mewtwo",
+      "dex": null,
+      "decimal": "131",
+      "type": [
+        "Psychic"
+      ]
+    },
+    "0x84": {
+      "name": "Snorlax",
+      "dex": null,
+      "decimal": "132",
+      "type": [
+        "Normal"
+      ]
+    },
+    "0x85": {
+      "name": "Magikarp",
+      "dex": null,
+      "decimal": "133",
+      "type": [
+        "Water"
+      ]
+    },
+    "0x86": {
+      "name": "MissingNo. (Porygon2)",
+      "dex": null,
+      "decimal": "134",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x87": {
+      "name": "MissingNo. (Stantler)",
+      "dex": null,
+      "decimal": "135",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x88": {
+      "name": "Muk",
+      "dex": null,
+      "decimal": "136",
+      "type": [
+        "Poison"
+      ]
+    },
+    "0x89": {
+      "name": "MissingNo. (Smeargle)",
+      "dex": null,
+      "decimal": "137",
+      "type": [
+        "Bird",
+        "Normal"
+      ]
+    },
+    "0x8A": {
+      "name": "Kingler",
+      "dex": null,
+      "decimal": "138",
+      "type": [
+        "Water"
+      ]
+    },
+    "0x8B": {
+      "name": "Cloyster",
+      "dex": null,
+      "decimal": "139",
+      "type": [
+        "Water",
+        "Ice"
+      ]
+    },
+    "0x8D": {
+      "name": "Electrode",
+      "dex": null,
+      "decimal": "141",
+      "type": [
+        "Electric"
+      ]
+    },
+    "0x8E": {
+      "name": "Clefable",
+      "dex": null,
+      "decimal": "142",
+      "type": [
+        "Normal"
+      ]
+    },
+    "0x8F": {
+      "name": "Weezing",
+      "dex": null,
+      "decimal": "143",
+      "type": [
+        "Poison"
+      ]
+    },
+    "0x90": {
+      "name": "Persian",
+      "dex": null,
+      "decimal": "144",
+      "type": [
+        "Normal"
+      ]
+    },
+    "0x91": {
+      "name": "Marowak",
+      "dex": null,
+      "decimal": "145",
+      "type": [
+        "Ground"
+      ]
+    },
+    "0x93": {
+      "name": "Haunter",
+      "dex": null,
+      "decimal": "147",
+      "type": [
+        "Ghost",
+        "Poison"
+      ]
+    },
+    "0x94": {
+      "name": "Abra",
+      "dex": null,
+      "decimal": "148",
+      "type": [
+        "Psychic"
+      ]
+    },
+    "0x95": {
+      "name": "Alakazam",
+      "dex": null,
+      "decimal": "149",
+      "type": [
+        "Psychic"
+      ]
+    },
+    "0x96": {
+      "name": "Pidgeotto",
+      "dex": null,
+      "decimal": "150",
+      "type": [
+        "Normal",
+        "Flying"
+      ]
+    },
+    "0x97": {
+      "name": "Pidgeot",
+      "dex": null,
+      "decimal": "151",
+      "type": [
+        "Normal",
+        "Flying"
+      ]
+    },
+    "0x98": {
+      "name": "Starmie",
+      "dex": null,
+      "decimal": "152",
+      "type": [
+        "Water",
+        "Psychic"
+      ]
+    },
+    "0x99": {
+      "name": "Bulbasaur",
+      "dex": null,
+      "decimal": "153",
+      "type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    "0x9A": {
+      "name": "Venusaur",
+      "dex": null,
+      "decimal": "154",
+      "type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    "0x9B": {
+      "name": "Tentacruel",
+      "dex": null,
+      "decimal": "155",
+      "type": [
+        "Water",
+        "Poison"
+      ]
+    },
+    "0x9D": {
+      "name": "Goldeen",
+      "dex": null,
+      "decimal": "157",
+      "type": [
+        "Water"
+      ]
+    },
+    "0x9E": {
+      "name": "Seaking",
+      "dex": null,
+      "decimal": "158",
+      "type": [
+        "Water"
+      ]
+    },
+    "0xA3": {
+      "name": "Ponyta",
+      "dex": null,
+      "decimal": "163",
+      "type": [
+        "Fire"
+      ]
+    },
+    "0xA4": {
+      "name": "Rapidash",
+      "dex": null,
+      "decimal": "164",
+      "type": [
+        "Fire"
+      ]
+    },
+    "0xA5": {
+      "name": "Rattata",
+      "dex": null,
+      "decimal": "165",
+      "type": [
+        "Normal"
+      ]
+    },
+    "0xA6": {
+      "name": "Raticate",
+      "dex": null,
+      "decimal": "166",
+      "type": [
+        "Normal"
+      ]
+    },
+    "0xA7": {
+      "name": "Nidorino",
+      "dex": null,
+      "decimal": "167",
+      "type": [
+        "Poison"
+      ]
+    },
+    "0xA8": {
+      "name": "Nidorina",
+      "dex": null,
+      "decimal": "168",
+      "type": [
+        "Poison"
+      ]
+    },
+    "0xA9": {
+      "name": "Geodude",
+      "dex": null,
+      "decimal": "169",
+      "type": [
+        "Rock",
+        "Ground"
+      ]
+    },
+    "0xAA": {
+      "name": "Porygon",
+      "dex": null,
+      "decimal": "170",
+      "type": [
+        "Normal"
+      ]
+    },
+    "0xAB": {
+      "name": "Aerodactyl",
+      "dex": null,
+      "decimal": "171",
+      "type": [
+        "Rock",
+        "Flying"
+      ]
+    },
+    "0xAD": {
+      "name": "Magnemite",
+      "dex": null,
+      "decimal": "173",
+      "type": [
+        "Electric"
+      ]
+    },
+    "0xB0": {
+      "name": "Charmander",
+      "dex": null,
+      "decimal": "176",
+      "type": [
+        "Fire"
+      ]
+    },
+    "0xB1": {
+      "name": "Squirtle",
+      "dex": null,
+      "decimal": "177",
+      "type": [
+        "Water"
+      ]
+    },
+    "0xB2": {
+      "name": "Charmeleon",
+      "dex": null,
+      "decimal": "178",
+      "type": [
+        "Fire"
+      ]
+    },
+    "0xB3": {
+      "name": "Wartortle",
+      "dex": null,
+      "decimal": "179",
+      "type": [
+        "Water"
+      ]
+    },
+    "0xB4": {
+      "name": "Charizard",
+      "dex": null,
+      "decimal": "180",
+      "type": [
+        "Fire",
+        "Flying"
+      ]
+    },
+    "0xB9": {
+      "name": "Oddish",
+      "dex": null,
+      "decimal": "185",
+      "type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    "0xBA": {
+      "name": "Gloom",
+      "dex": null,
+      "decimal": "186",
+      "type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    "0xBB": {
+      "name": "Vileplume",
+      "dex": null,
+      "decimal": "187",
+      "type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    "0xBC": {
+      "name": "Bellsprout",
+      "dex": null,
+      "decimal": "188",
+      "type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    "0xBD": {
+      "name": "Weepinbell",
+      "dex": null,
+      "decimal": "189",
+      "type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    "0xBE": {
+      "name": "Victreebel",
+      "dex": null,
+      "decimal": "190",
+      "type": [
+        "Grass",
+        "Poison"
+      ]
+    }
+  }
+}

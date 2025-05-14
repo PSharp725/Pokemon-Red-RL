@@ -3,7 +3,7 @@
 import os
 import json
 
-MAP_PATH = os.path.join(os.path.dirname(__file__), "map_data.json")
+MAP_PATH = os.path.join(os.path.dirname(__file__), "./data/game_data/map_data.json")
 PAD = 20
 GLOBAL_MAP_SHAPE = (444 + PAD * 2, 436 + PAD * 2)
 MAP_ROW_OFFSET = PAD
