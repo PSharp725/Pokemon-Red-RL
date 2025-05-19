@@ -12,7 +12,9 @@
       "Type": "Ball",
       "Buy": null,
       "Sell": null,
-      "Location": "Silph Co 11F"
+      "Location": [
+        "Silph Co 11F"
+      ]
     },
     "0x02": {
       "Name": "Ultra Ball",
@@ -33,21 +35,25 @@
       "Type": "Ball",
       "Buy": 600,
       "Sell": 300,
-      "Location": null
+     "Location": null
     },
     "0x05": {
       "Name": "Town Map",
       "Type": null,
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Rivals House"
+      ]
     },
     "0x06": {
       "Name": "Bicycle",
       "Type": null,
-      "Buy": null,
+      "Buy": "Voucher",
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Bike Shop"
+      ]
     },
     "0x07": {
       "Name": "Surfboard",
@@ -58,72 +64,82 @@
     },
     "0x08": {
       "Name": "Safari Ball",
-      "Type": null,
+      "Type": "Ball",
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Safari Gate"
+      ]
     },
     "0x09": {
       "Name": "Pok\u00e9dex",
       "Type": null,
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Oaks Lab"
+      ]
     },
     "0x0A": {
       "Name": "Moon Stone",
       "Type": null,
-      "Buy": null,
+      "Buy": 0,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Route 2",
+        "Mt Moon Route 3",
+        "Mt Moon B2F",
+        "Rocket Hideout B2F",
+        "Pokemon Mansion F1"
+      ]
     },
     "0x0B": {
       "Name": "Antidote",
       "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Buy": 100,
+      "Sell": 50,
       "Location": null
     },
     "0x0C": {
       "Name": "Burn Heal",
       "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Buy": 250,
+      "Sell": 125,
       "Location": null
     },
     "0x0D": {
       "Name": "Ice Heal",
       "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Buy": 250,
+      "Sell": 125,
       "Location": null
     },
     "0x0E": {
       "Name": "Awakening",
       "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Buy": 200,
+      "Sell": 125,
       "Location": null
     },
     "0x0F": {
       "Name": "Parlyz Heal",
       "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Buy": 200,
+      "Sell": 100,
       "Location": null
     },
     "0x10": {
       "Name": "Full Restore",
       "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Buy": 3000,
+      "Sell": 1500,
       "Location": null
     },
     "0x11": {
       "Name": "Max Potion",
       "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Buy": 2500,
+      "Sell": 1250,
       "Location": null
     },
     "0x12": {
@@ -302,7 +318,7 @@
       "Location": null
     },
     "0x2B": {
-      "Name": "Secret Key",
+      "Name": "Secret Keynull",
       "Type": null,
       "Buy": null,
       "Sell": null,
