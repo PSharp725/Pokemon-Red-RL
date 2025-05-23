@@ -9,7 +9,7 @@
     },
     "0x01": {
       "Name": "Master Ball",
-      "Type": "Ball",
+      "Type": "Pok\u00e9 Ball",
       "Buy": null,
       "Sell": null,
       "Location": [
@@ -18,28 +18,28 @@
     },
     "0x02": {
       "Name": "Ultra Ball",
-      "Type": "Ball",
+      "Type": "Pok\u00e9 Ball",
       "Buy": 1200,
       "Sell": 600,
       "Location": null
     },
     "0x03": {
       "Name": "Great Ball",
-      "Type": "Ball",
+      "Type": "Pok\u00e9 Ball",
       "Buy": 600,
       "Sell": 300,
       "Location": null
     },
     "0x04": {
       "Name": "Pok\u00e9 Ball",
-      "Type": "Ball",
+      "Type": "Pok\u00e9 Ball",
       "Buy": 600,
       "Sell": 300,
      "Location": null
     },
     "0x05": {
       "Name": "Town Map",
-      "Type": null,
+      "Type": "Key Item",
       "Buy": null,
       "Sell": null,
       "Location": [
@@ -48,7 +48,7 @@
     },
     "0x06": {
       "Name": "Bicycle",
-      "Type": null,
+      "Type": "Key Item",
       "Buy": "Voucher",
       "Sell": null,
       "Location": [
@@ -64,7 +64,7 @@
     },
     "0x08": {
       "Name": "Safari Ball",
-      "Type": "Ball",
+      "Type": "Pok\u00e9 Ball",
       "Buy": null,
       "Sell": null,
       "Location": [
@@ -73,7 +73,7 @@
     },
     "0x09": {
       "Name": "Pok\u00e9dex",
-      "Type": null,
+      "Type": "Key Item",
       "Buy": null,
       "Sell": null,
       "Location": [
@@ -82,7 +82,7 @@
     },
     "0x0A": {
       "Name": "Moon Stone",
-      "Type": null,
+      "Type": "Evolution Stone",
       "Buy": 0,
       "Sell": null,
       "Location": [
@@ -95,234 +95,274 @@
     },
     "0x0B": {
       "Name": "Antidote",
-      "Type": null,
+      "Type": "Status Medicine",
       "Buy": 100,
       "Sell": 50,
       "Location": null
     },
     "0x0C": {
       "Name": "Burn Heal",
-      "Type": null,
+      "Type": "Status Medicine",
       "Buy": 250,
       "Sell": 125,
       "Location": null
     },
     "0x0D": {
       "Name": "Ice Heal",
-      "Type": null,
+      "Type": "Status Medicine",
       "Buy": 250,
       "Sell": 125,
       "Location": null
     },
     "0x0E": {
       "Name": "Awakening",
-      "Type": null,
+      "Type": "Status Medicine",
       "Buy": 200,
       "Sell": 125,
       "Location": null
     },
     "0x0F": {
       "Name": "Parlyz Heal",
-      "Type": null,
+      "Type": "Status Medicine",
       "Buy": 200,
       "Sell": 100,
       "Location": null
     },
     "0x10": {
       "Name": "Full Restore",
-      "Type": null,
+      "Type": "Wound Medicine",
       "Buy": 3000,
       "Sell": 1500,
       "Location": null
     },
     "0x11": {
       "Name": "Max Potion",
-      "Type": null,
+      "Type": "Wound Medicine",
       "Buy": 2500,
       "Sell": 1250,
       "Location": null
     },
     "0x12": {
       "Name": "Hyper Potion",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Type": "Wound Medicine",
+      "Buy": 1500,
+      "Sell": 750,
       "Location": null
     },
     "0x13": {
       "Name": "Super Potion",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Type": "Wound Medicine",
+      "Buy": 700,
+      "Sell": 350,
       "Location": null
     },
     "0x14": {
       "Name": "Potion",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Type": "Wound Medicine",
+      "Buy": 300,
+      "Sell": 150,
       "Location": null
     },
     "0x15": {
       "Name": "BoulderBadge",
-      "Type": null,
+      "Type": "Gym Badge",
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Pewter Gym"
+      ]
     },
     "0x16": {
       "Name": "CascadeBadge",
-      "Type": null,
+      "Type": "Gym Badge",
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Cerulean Gym"
+      ]
     },
     "0x17": {
       "Name": "ThunderBadge",
-      "Type": null,
+      "Type": "Gym Badge",
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Vermilion Gym"
+      ]
     },
     "0x18": {
       "Name": "RainbowBadge",
-      "Type": null,
+      "Type": "Gym Badge",
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Celadon Gym"
+      ]
     },
     "0x19": {
       "Name": "SoulBadge",
-      "Type": null,
+      "Type": "Gym Badge",
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Fuchsia Gym"
+      ]
     },
     "0x1A": {
       "Name": "MarshBadge",
-      "Type": null,
+      "Type": "Gym Badge",
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Saffron Gym"
+      ]
     },
     "0x1B": {
       "Name": "VolcanoBadge",
-      "Type": null,
+      "Type": "Gym Badge",
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Cinnabar Gym"
+      ]
     },
     "0x1C": {
       "Name": "EarthBadge",
-      "Type": null,
+      "Type": "Gym Badge",
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Viridian Gym"
+      ]
     },
     "0x1D": {
       "Name": "Escape Rope",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Type": "Escape Item",
+      "Buy": 550,
+      "Sell": 275,
       "Location": null
     },
     "0x1E": {
       "Name": "Repel",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Type": "Repellent Spray",
+      "Buy": 350,
+      "Sell": 175,
       "Location": null
     },
     "0x1F": {
       "Name": "Old Amber",
-      "Type": null,
+      "Type": "Fossil",
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Museum F1"
+      ]
     },
     "0x20": {
       "Name": "Fire Stone",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
-      "Location": null
+      "Type": "Evolution Stone",
+      "Buy": 2100,
+      "Sell": 1050,
+      "Location": [
+        "Department Store F4"
+      ]
     },
     "0x21": {
       "Name": "Thunderstone",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
-      "Location": null
+      "Type": "Evolution Stone",
+      "Buy": 2100,
+      "Sell": 1050,
+      "Location": [
+        "Department Store F4"
+      ]
     },
     "0x22": {
       "Name": "Water Stone",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
-      "Location": null
+      "Type": "Evolution Stone",
+      "Buy": 2100,
+      "Sell": 1050,
+      "Location": [
+        "Department Store F4"
+      ]
     },
     "0x23": {
       "Name": "HP Up",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
-      "Location": null
+      "Type": "Power-Up",
+      "Buy": 9800,
+      "Sell": 4900,
+      "Location": [
+        "Department Store F5"
+      ]
     },
     "0x24": {
       "Name": "Protein",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
-      "Location": null
+      "Type": "Power-Up",
+      "Buy": 9800,
+      "Sell": 4900,
+      "Location": [
+        "Department Store F5"
+      ]
     },
     "0x25": {
       "Name": "Iron",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
-      "Location": null
+      "Type": "Power-Up",
+      "Buy": 9800,
+      "Sell": 4900,
+      "Location": [
+        "Department Store F5"
+      ]
     },
     "0x26": {
       "Name": "Carbos",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
-      "Location": null
+      "Type": "Power-Up",
+      "Buy": 9800,
+      "Sell": 4900,
+      "Location": [
+        "Department Store F5"
+      ]
     },
     "0x27": {
       "Name": "Calcium",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
-      "Location": null
+      "Type": "Power-Up",
+      "Buy": 9800,
+      "Sell": 4900,
+      "Location": [
+        "Department Store F5"
+      ]
     },
     "0x28": {
       "Name": "Rare Candy",
-      "Type": null,
+      "Type": "Power-Up",
       "Buy": null,
-      "Sell": null,
+      "Sell": 2400,
       "Location": null
     },
     "0x29": {
       "Name": "Dome Fossil",
-      "Type": null,
+      "Type": "Fossil",
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Mt Moon B2F"
+      ]
     },
     "0x2A": {
       "Name": "Helix Fossil",
-      "Type": null,
+      "Type": "Fossil",
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Mt Moon B2F"
+      ]
     },
     "0x2B": {
-      "Name": "Secret Keynull",
-      "Type": null,
+      "Name": "Secret Key",
+      "Type": "Key Item",
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Pokemon Mansion B1F"
+      ]
     },
     "0x2C": {
       "Name": "Unused",
@@ -333,175 +373,193 @@
     },
     "0x2D": {
       "Name": "Bike Voucher",
-      "Type": null,
+      "Type": "Key Item",
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Pokemon Fan Club"
+      ]
     },
     "0x2E": {
       "Name": "X Accuracy",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Type": "Battle Item",
+      "Buy": 950,
+      "Sell": 475,
       "Location": null
     },
     "0x2F": {
       "Name": "Leaf Stone",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
-      "Location": null
+      "Type": "Evolution Stone",
+      "Buy": 2100,
+      "Sell": 1050,
+      "Location": [
+        "Department Store F4"
+      ]
     },
     "0x30": {
       "Name": "Card Key",
-      "Type": null,
+      "Type": "Key Item",
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Silph Co 5F"
+      ]
     },
     "0x31": {
       "Name": "Nugget",
-      "Type": null,
+      "Type": "Valuable Item",
       "Buy": null,
       "Sell": null,
       "Location": null
     },
     "0x32": {
-      "Name": "PP Up*",
-      "Type": null,
+      "Name": "PP Up",
+      "Type": "Power-Up",
       "Buy": null,
       "Sell": null,
       "Location": null
     },
     "0x33": {
       "Name": "Pok\u00e9 Doll",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
-      "Location": null
+      "Type": "Escape Item",
+      "Buy": 1000,
+      "Sell": 500,
+      "Location": [
+        "Department Store F4"
+      ]
     },
     "0x34": {
       "Name": "Full Heal",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Type": "Status Medicine",
+      "Buy": 600,
+      "Sell": 300,
       "Location": null
     },
     "0x35": {
       "Name": "Revive",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Type": "Vitality Item",
+      "Buy": 1500,
+      "Sell": 750,
       "Location": null
     },
     "0x36": {
       "Name": "Max Revive",
-      "Type": null,
+      "Type": "Vitality Item",
       "Buy": null,
-      "Sell": null,
+      "Sell": 2000,
       "Location": null
     },
     "0x37": {
       "Name": "Guard Spec.",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Type": "Battle Item",
+      "Buy": 700,
+      "Sell": 350,
       "Location": null
     },
     "0x38": {
       "Name": "Super Repel",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Type": "Repellent Spray",
+      "Buy": 500,
+      "Sell": 250,
       "Location": null
     },
     "0x39": {
       "Name": "Max Repel",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Type": "Repellent Spray",
+      "Buy": 700,
+      "Sell": 350,
       "Location": null
     },
     "0x3A": {
       "Name": "Dire Hit",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Type": "Battle Item",
+      "Buy": 650,
+      "Sell": 325,
       "Location": null
     },
     "0x3B": {
       "Name": "Coin",
-      "Type": null,
-      "Buy": null,
+      "Type": "Valuable Item",
+      "Buy": 1000,
       "Sell": null,
       "Location": null
     },
     "0x3C": {
       "Name": "Fresh Water",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
-      "Location": null
+      "Type": "Wound Medicine",
+      "Buy": 200,
+      "Sell": 100,
+      "Location": [
+        "Department Store Roof"
+      ]
     },
     "0x3D": {
       "Name": "Soda Pop",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
-      "Location": null
+      "Type": "Wound Medicine",
+      "Buy": 300,
+      "Sell": 150,
+      "Location": [
+        "Department Store Roof"
+      ]
     },
     "0x3E": {
       "Name": "Lemonade",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
-      "Location": null
+      "Type": "Wound Medicine",
+      "Buy": 350,
+      "Sell": 175,
+      "Location": [
+        "Department Store Roof"
+      ]
     },
     "0x3F": {
       "Name": "S.S. Ticket",
-      "Type": null,
+      "Type": "Key Item",
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Bills Lab"
+      ]
     },
     "0x40": {
       "Name": "Gold Teeth",
       "Type": null,
       "Buy": null,
       "Sell": null,
-      "Location": null
+      "Location": [
+        "Safari West"
+      ]
     },
     "0x41": {
       "Name": "X Attack",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Type": "Battle Item",
+      "Buy": 500,
+      "Sell": 250,
       "Location": null
     },
     "0x42": {
       "Name": "X Defend",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Type": "Battle Item",
+      "Buy": 550,
+      "Sell": 275,
       "Location": null
     },
     "0x43": {
       "Name": "X Speed",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Type": "Battle Item",
+      "Buy": 350,
+      "Sell": 175,
       "Location": null
     },
     "0x44": {
       "Name": "X Special",
-      "Type": null,
-      "Buy": null,
-      "Sell": null,
+      "Type": "Battle Item",
+      "Buy": 350,
+      "Sell": 175,
       "Location": null
     },
     "0x45": {
       "Name": "Coin Case",
-      "Type": null,
+      "Type": "Key Item",
       "Buy": null,
       "Sell": null,
       "Location": null
